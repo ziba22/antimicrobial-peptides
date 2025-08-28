@@ -1,0 +1,954 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+A0A0A1I6E7	reviewed	NDB4S_ANDCR	Antimicrobial peptide AcrAP1		Androctonus crassicauda (Arabian fat-tailed scorpion)	74
+A0A0A1I6N9	reviewed	NDB4T_ANDCR	Antimicrobial peptide AcrAP2		Androctonus crassicauda (Arabian fat-tailed scorpion)	74
+A0A126GUP6	reviewed	MP1_DROME	Melanization protease 1 (EC 3.4.21.-)	MP1 CG1102	Drosophila melanogaster (Fruit fly)	400
+A0A144LUY5	reviewed	CTCN1_ECHES	Centrocin 1 (EeCentrocin 1) [Cleaved into: Centrocin 1, heavy chain; Centrocin 1, light chain]		Echinus esculentus (Sea urchin)	119
+A0A1L3THR9	reviewed	CDA_PESTX	Chitin deacetylase (EC 3.5.1.41)	CDA	Pestalotiopsis sp	298
+A5HAK0	reviewed	RNSL3_DANRE	Ribonuclease-like 3 (RNase ZF-3) (RNase-like 3) (ZF-RNase-3) (EC 3.1.27.-) (Dr-RNase 1) [Cleaved into: N-terminal peptide; LF-ZF3]	rnasel3	Danio rerio (Zebrafish) (Brachydanio rerio)	149
+B3EWR6	reviewed	AMP_ECHCG	Antimicrobial peptides [Cleaved into: Antimicrobial peptide 1 (EcAMP1); Antimicrobial peptide 3 (EcAMP3); Antimicrobial peptide 2 (EcAMP2); Antimicrobial peptide 2.1 (EcAMP2.1)]		Echinochloa crus-galli (Barnyard grass) (Panicum crus-galli)	361
+B8AL97	reviewed	CUCIN_ORYSI	Cupincin (EC 3.4.-.-) (52 kDa globulin-like protein) (allergen Ory s NRA)	OsI_13867	Oryza sativa subsp. indica (Rice)	470
+C0HJQ3	reviewed	H2A_ACIGU	Histone H2A [Cleaved into: Acipensin 1 (Ac1); Acipensin 2 (Ac2); Acipensin 3 (Ac3); Acipensin 4 (Ac4); Acipensin 5 (Ac5); Acipensin 6 (Ac6)]		Acipenser gueldenstaedtii (Russian sturgeon) (Danube sturgeon)	76
+C0HK44	reviewed	LL3_LASLA	Lasioglossin-3 (LL-III)		Lasioglossum laticeps (Bee)	15
+C0HL58	reviewed	NDB4B_ISOMC	Peptide Im-5 (Im5)		Isometrus maculatus (Lesser brown scorpion) (Scorpio maculatus)	79
+C0HL84	reviewed	PNG1_PANCL	Panurgin 1 (PNG-1)		Panurgus calcaratus (Solitary bee)	12
+D0ZV89	reviewed	PHOQ_SALT1	Virulence sensor histidine kinase PhoQ (EC 2.7.13.3) (EC 3.1.3.-) (Sensor histidine protein kinase/phosphatase PhoQ)	phoQ STM14_1408	Salmonella typhimurium (strain 14028s / SGSC 2262)	487
+G5EED4	reviewed	NIPI3_CAEEL	Protein nipi-3 (No induction of peptide after drechmeria infection protein 3) (Tribbles homolog nipi-3)	nipi-3 K09A9.1	Caenorhabditis elegans	655
+I0DEB3	reviewed	NDB4D_VAEMS	Amphipathic peptide VmCT1 (CT1) (Non-disulfide-bridged peptide 4.13) (NDBP-4.13) (Non-disulfide-bridged peptide 5.13) (NDBP-5.13)		Vaejovis mexicanus smithi (Mexican scorpion) (Vaejovis smithi)	68
+O09037	reviewed	REG3A_MOUSE	Regenerating islet-derived protein 3-alpha (REG-3-alpha) (Islet of Langerhans regenerating protein 3) (Lithostathine 3) (Pancreatitis-associated protein 2) (Regenerating islet-derived protein III-alpha) (Reg III-alpha) [Cleaved into: Regenerating islet-derived protein 3-alpha 16.5 kDa form; Regenerating islet-derived protein 3-alpha 15 kDa form]	Reg3a Pap2	Mus musculus (Mouse)	175
+O09049	reviewed	REG3G_MOUSE	Regenerating islet-derived protein 3-gamma (REG-3-gamma) (Pancreatitis-associated protein 3) (Regenerating islet-derived protein III-gamma) (Reg III-gamma) [Cleaved into: Regenerating islet-derived protein 3-gamma 16.5 kDa form; Regenerating islet-derived protein 3-gamma 15 kDa form]	Reg3g Pap3	Mus musculus (Mouse)	174
+O18330	reviewed	MRJP1_APIME	Major royal jelly protein 1 (56-kDa protein 4) (p56kP-4) (Apalbumin 1) (Apisin subunit MRJP1) (Bee-milk protein) (Royal jelly protein RJP57-3) (RJP-3) (Royalactin) [Cleaved into: Jellein-1 (Jelleine-I); Jellein-2 (Jelleine-II); Jellein-4 (Jelleine-IV)]	Mrjp1 GB14888	Apis mellifera (Honeybee)	432
+O24006	reviewed	AMP_IMPBA	Antimicrobial peptides (IB-AMP) [Cleaved into: Basic peptide AMP3 (IB-AMP3); Basic peptide AMP1-1 (IB-AMP1-1); Basic peptide AMP1-2 (IB-AMP1-2); Basic peptide AMP1-3 (IB-AMP1-3); Basic peptide AMP2 (IB-AMP2); Basic peptide AMP4 (IB-AMP4)]	AMP	Impatiens balsamina (Balsam)	333
+O44997	reviewed	DAPK_CAEEL	Death-associated protein kinase dapk-1 (EC 2.7.11.1)	dapk-1 mor-3 tag-119 K12C11.4	Caenorhabditis elegans	1425
+O45813	reviewed	SNF12_CAEEL	Sodium-dependent transporter snf-12 (Sodium: neurotransmitter symporter family protein snf-12)	snf-12 nipi-2 T25B6.7	Caenorhabditis elegans	1022
+O52325	reviewed	ARNA_SALTY	Bifunctional polymyxin resistance protein ArnA [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA pbgP3 pmrI STM2299	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	660
+O60814	reviewed	H2B1K_HUMAN	Histone H2B type 1-K (H2B K) (HIRA-interacting protein 1)	H2BC12 H2BFT HIRIP1 HIST1H2BK	Homo sapiens (Human)	126
+O75594	reviewed	PGRP1_HUMAN	Peptidoglycan recognition protein 1 (Peptidoglycan recognition protein short) (PGRP-S)	PGLYRP1 PGLYRP PGRP TNFSF3L SBBI68 UNQ639/PRO1269	Homo sapiens (Human)	196
+O88310	reviewed	ITL1A_MOUSE	Intelectin-1a (Galactofuranose-binding lectin) (Intestinal lactoferrin receptor)	Itln1 Intl Itln Itln1a Itlna	Mus musculus (Mouse)	313
+O88593	reviewed	PGRP1_MOUSE	Peptidoglycan recognition protein 1 (Cytokine tag7) (Peptidoglycan recognition protein short) (PGRP-S)	Pglyrp1 Pglyrp Pgrp Pgrps Tag7	Mus musculus (Mouse)	182
+O95925	reviewed	EPPI_HUMAN	Eppin (Cancer/testis antigen 71) (CT71) (Epididymal protease inhibitor) (Protease inhibitor WAP7) (Serine protease inhibitor-like with Kunitz and WAP domains 1) (WAP four-disulfide core domain protein 7)	EPPIN SPINLW1 WAP7 WFDC7	Homo sapiens (Human)	133
+P00697	reviewed	LYSC1_RAT	Lysozyme C-1 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)	Lyz1 Lyz	Rattus norvegicus (Rat)	148
+P00698	reviewed	LYSC_CHICK	Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C) (Allergen Gal d IV) (allergen Gal d 4)	LYZ	Gallus gallus (Chicken)	147
+P00762	reviewed	TRY1_RAT	Serine protease 1 (EC 3.4.21.4) (Anionic trypsin I) (Anionic trypsin-1) (Beta-trypsin) (Cationic trypsinogen) (Pretrypsinogen I) (Trypsin I) (Trypsin-1)	Prss1 Trp1 Try1 Tryp1	Rattus norvegicus (Rat)	246
+P00763	reviewed	TRY2_RAT	Anionic trypsin-2 (EC 3.4.21.4) (Anionic trypsin II) (Pretrypsinogen II) (Serine protease 2)	Prss2 Try2	Rattus norvegicus (Rat)	246
+P02788	reviewed	TRFL_HUMAN	Lactotransferrin (Lactoferrin) (EC 3.4.21.-) (Growth-inhibiting protein 12) (Talalactoferrin) [Cleaved into: Lactoferricin-H (Lfcin-H); Kaliocin-1; Lactoferroxin-A; Lactoferroxin-B; Lactoferroxin-C]	LTF GIG12 LF	Homo sapiens (Human)	710
+P04279	reviewed	SEMG1_HUMAN	Semenogelin-1 (Cancer/testis antigen 103) (Semenogelin I) (SGI) [Cleaved into: Alpha-inhibin-92; Alpha-inhibin-31; Seminal basic protein]	SEMG1 SEMG	Homo sapiens (Human)	462
+P04347	reviewed	GLYG5_SOYBN	Glycinin G5 (Glycinin 11S G5) (Glycinin A3B4) (allergen Gly m 6) [Cleaved into: Glycinin A3 subunit; Glycinin B4 subunit]	GY5 Glyma13g18450	Glycine max (Soybean) (Glycine hispida)	516
+P04405	reviewed	GLYG2_SOYBN	Glycinin G2 (Glycinin 11S G2) (Glycinin A2B1a) (allergen Gly m 6) [Cleaved into: Glycinin A2 subunit; Glycinin B1a subunit]	GY2 Glyma03g32020	Glycine max (Soybean) (Glycine hispida)	485
+P04776	reviewed	GLYG1_SOYBN	Glycinin G1 (Glycinin 11S G1) (Glycinin A1aB1b) (allergen Gly m 6) [Cleaved into: Glycinin A1a subunit (Glycinin acidic 1a subunit); Glycinin Bx subunit (Glycinin basic x subunit) (Glycinin B1b subunit) (Glycinin basic 1b subunit)]	GY1 Glyma03g32030	Glycine max (Soybean) (Glycine hispida)	495
+P05371	reviewed	CLUS_RAT	Clusterin (Dimeric acid glycoprotein) (DAG) (Sulfated glycoprotein 2) (SGP-2) (Testosterone repressed prostate message 2) (TRPM-2) [Cleaved into: Clusterin beta chain; Clusterin alpha chain]	Clu	Rattus norvegicus (Rat)	447
+P06899	reviewed	H2B1J_HUMAN	Histone H2B type 1-J (Histone H2B.1) (Histone H2B.r) (H2B/r)	H2BC11 H2BFR HIST1H2BJ	Homo sapiens (Human)	126
+P07146	reviewed	TRY2_MOUSE	Anionic trypsin-2 (EC 3.4.21.4) (Anionic trypsin II) (Pretrypsinogen II) (Serine protease 2)	Prss2 Try2	Mus musculus (Mouse)	246
+P07478	reviewed	TRY2_HUMAN	Trypsin-2 (EC 3.4.21.4) (Anionic trypsinogen) (Serine protease 2) (Trypsin II)	PRSS2 TRY2 TRYP2	Homo sapiens (Human)	247
+P08071	reviewed	TRFL_MOUSE	Lactotransferrin (Lactoferrin) (EC 3.4.21.-)	Ltf	Mus musculus (Mouse)	707
+P08246	reviewed	ELNE_HUMAN	Neutrophil elastase (EC 3.4.21.37) (Bone marrow serine protease) (Elastase-2) (Human leukocyte elastase) (HLE) (Medullasin) (PMN elastase)	ELANE ELA2	Homo sapiens (Human)	267
+P08252	reviewed	CHI1_TOBAC	Endochitinase A (CHN-A) (EC 3.2.1.14)	CHN48	Nicotiana tabacum (Common tobacco)	329
+P08311	reviewed	CATG_HUMAN	Cathepsin G (CG) (EC 3.4.21.20) [Cleaved into: Cathepsin G, C-terminal truncated form]	CTSG	Homo sapiens (Human)	255
+P08904	reviewed	RNAS6_BOVIN	Ribonuclease K6 (RNase K6) (EC 3.1.27.-) (K6b) (Ribonuclease K2) (RNase K2)	RNASE6 RK6B RNS6	Bos taurus (Bovine)	154
+P08905	reviewed	LYZ2_MOUSE	Lysozyme C-2 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C) (Lysozyme C type M)	Lyz2 Lyz Lyzs	Mus musculus (Mouse)	148
+P0AAH4	reviewed	SAPD_ECOLI	Putrescine export system ATP-binding protein SapD	sapD trkE b1291 JW1284	Escherichia coli (strain K12)	330
+P0AD49	reviewed	YFIA_ECOLI	Ribosome-associated inhibitor A (Protein Y) (pY) (Ribosome associated factor Y) (Spot Y)	raiA yfiA b2597 JW2578	Escherichia coli (strain K12)	113
+P0AFY6	reviewed	SBMA_ECOLI	Peptide antibiotic transporter SbmA	sbmA b0377 JW0368	Escherichia coli (strain K12)	406
+P0C005	reviewed	ANOP_ANOSM	Anoplin (ANP) (As-183)		Anoplius samariensis (Solitary wasp)	10
+P0DM80	reviewed	PHOQ_SALTY	Virulence sensor histidine kinase PhoQ (EC 2.7.13.3) (EC 3.1.3.-) (Sensor histidine protein kinase/phosphatase PhoQ)	phoQ phoZ STM1230	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	487
+P10354	reviewed	CMGA_RAT	Chromogranin-A (CgA) [Cleaved into: Pancreastatin; Beta-granin; WE-14; Catestatin; GE-25; Serpinin-RRG; Serpinin; p-Glu serpinin precursor]	Chga	Rattus norvegicus (Rat)	466
+P10645	reviewed	CMGA_HUMAN	Chromogranin-A (CgA) (Pituitary secretory protein I) (SP-I) [Cleaved into: Vasostatin-1 (Vasostatin I); Vasostatin-2 (Vasostatin II); EA-92; ES-43; Pancreastatin; SS-18; WA-8; WE-14; LF-19; Catestatin (SL21); AL-11; GV-19; GR-44; ER-37; GE-25; Serpinin-RRG; Serpinin; p-Glu serpinin precursor]	CHGA	Homo sapiens (Human)	457
+P10909	reviewed	CLUS_HUMAN	Clusterin (Aging-associated gene 4 protein) (Apolipoprotein J) (Apo-J) (Complement cytolysis inhibitor) (CLI) (Complement-associated protein SP-40,40) (Ku70-binding protein 1) (NA1/NA2) (Sulfated glycoprotein 2) (SGP-2) (Testosterone-repressed prostate message 2) (TRPM-2) [Cleaved into: Clusterin beta chain (ApoJalpha) (Complement cytolysis inhibitor a chain) (SP-40,40 beta-chain); Clusterin alpha chain (ApoJbeta) (Complement cytolysis inhibitor b chain) (SP-40,40 alpha-chain)]	CLU APOJ CLI KUB1 AAG4	Homo sapiens (Human)	449
+P11218	reviewed	AGI_URTDI	Lectin/endochitinase 1 (EC 3.2.1.14) (Agglutinin) (UDA) (chia5.1.1) [Cleaved into: Lectin 1]	UDA1	Urtica dioica (Great nettle) (Stinging nettle)	372
+P12724	reviewed	ECP_HUMAN	Eosinophil cationic protein (ECP) (EC 3.1.27.-) (Ribonuclease 3) (RNase 3)	RNASE3 ECP RNS3	Homo sapiens (Human)	160
+P13487	reviewed	KAX11_LEIHE	Potassium channel toxin alpha-KTx 1.1 (ChTX-Lq1) (ChTx-a) (Charybdotoxin) (CTX) (ChTX)		Leiurus hebraeus (Hebrew deathstalker scorpion) (Leiurus quinquestriatus hebraeus)	59
+P14423	reviewed	PA2GA_RAT	Phospholipase A2, membrane associated (EC 3.1.1.4) (GIIC sPLA2) (Group IIA phospholipase A2) (Phosphatidylcholine 2-acylhydrolase 2A)	Pla2g2a	Rattus norvegicus (Rat)	146
+P14555	reviewed	PA2GA_HUMAN	Phospholipase A2, membrane associated (EC 3.1.1.4) (GIIC sPLA2) (Group IIA phospholipase A2) (Non-pancreatic secretory phospholipase A2) (NPS-PLA2) (Phosphatidylcholine 2-acylhydrolase 2A)	PLA2G2A PLA2B PLA2L RASF-A	Homo sapiens (Human)	144
+P15515	reviewed	HIS1_HUMAN	Histatin-1 (Hst1) (Histidine-rich protein 1) (Post-PB protein) (PPB) [Cleaved into: His1-(31-57)-peptide (His1 31/57) (His1-(12-38)-peptide) (His1 12/38) (Histatin 2) (Hst2) (Histatin-2)]	HTN1 HIS1	Homo sapiens (Human)	57
+P15516	reviewed	HIS3_HUMAN	Histatin-3 (Basic histidine-rich protein) (Hst) (Histatin 3) (Hst 3) (Histidine-rich protein 3) (PB) [Cleaved into: Histatin-3; His3-(20-44)-peptide (His3 20/44) (His3-(1-25)-peptide) (His3 1/25) (Histatin 6) (Histatin-3 1/25) (Histatin-6); His3-(20-43)-peptide (His3 20/43) (His3-(1-24)-peptide) (His3 1/24) (Histatin 5) (Hst 5) (Histatin-3 1/24) (Histatin-5); His3-(20-32)-peptide (His3 20/32) (His3-(1-13)-peptide) (His3 1/13) (Histatin-3 1/13); His3-(20-31)-peptide (His3 20/31) (His3-(1-12)-peptide) (His3 1/12) (Histatin-3 1/12); His3-(20-30)-peptide (His3 20/30) (His3-(1-11)-peptide) (His3 1/11) (Histatin-3 1/11); His3-(24-32)-peptide (His3 24/32) (His3-(5-13)-peptide) (His3 5/13) (Histatin-3 5/13); His3-(24-31)-peptide (His3 24/31) (His3-(5-12)-peptide) (His3 5/12) (Histatin 11) (Histatin-11) (Histatin-3 5/12); His3-(24-30)-peptide (His3 24/30) (His3-(5-11)-peptide) (His3 5/11) (Histatin 12) (Histatin-12) (Histatin-3 5/11); His3-(25-32)-peptide (His3 25/32) (His3-(6-13)-peptide) (His3 6/13) (Histatin-3 6/13); His3-(25-30)-peptide (His3 25/30) (His3-(6-11)-peptide) (His3 6/11) (Histatin-3 6/11); His3-(26-32)-peptide (His3 26/32) (His3-(7-13)-peptide) (His3 7/13) (Histatin-3 7/13); His3-(26-31)-peptide (His3 26/31) (His3-(7-12)-peptide) (His3 7/12) (Histatin-3 7/12); His3-(26-30)-peptide (His3 26/30) (His3-(7-11)-peptide) (His3 7/11) (Histatin-3 7/11); His3-(31-51)-peptide (His3 31/51) (His3-(12-32)-peptide) (His3 12/32) (Histatin 4) (Histatin-3 12/32) (Histatin-4); His3-(31-44)-peptide (His3 31/44) (His3-(12-25)-peptide) (His3 12/25) (Histatin 9) (Histatin-3 12/25) (Histatin-9); His3-(31-43)-peptide (His3 31/43) (His3-(12-24)-peptide) (His3 12/24) (Histatin 7) (Histatin-3 12/24) (Histatin-7); His3-(32-44)-peptide (His3 32/44) (His3-(13-25)-peptide) (His3 13/25) (Histatin 10) (Histatin-10) (Histatin-3 13/25); His3-(32-43)-peptide (His3 32-43) (His3-(13-24)-peptide) (His3 13/24) (Histatin 8) (Histatin-3 13/24) (Histatin-8); His3-(33-44)-peptide (His3 33/44) (His3-(14-25)-peptide) (His3 14/25) (Histatin-3 14/25); His3-(33-43)-peptide (His3 33/43) (His3-(14-24)-peptide) (His3 14/24) (Histatin-3 14/24); His3-(34-44)-peptide (His3 34/44) (His3-(15-25)-peptide) (His3 15/25) (Histatin-3 15/25); His3-(34-43)-peptide (His3 34/43) (His3-(15-24)-peptide) (His3 15/24) (Histatin-3 15/24); His3-(45-51)-peptide (His3 45/51) (His3-(26-32)-peptide) (His3 26/32) (Histatin-3 26/32); His3-(47-51)-peptide (His3 47/51) (His3-(28-32)-peptide) (His3 28/32) (Histatin-3 28/32); His3-(48-51)-peptide (His3 48/51) (His3-(29-32)-peptide) (His3 29/32) (Histatin-3 29/32)]	HTN3 HIS2	Homo sapiens (Human)	51
+P17213	reviewed	BPI_HUMAN	Bactericidal permeability-increasing protein (BPI) (CAP 57)	BPI	Homo sapiens (Human)	487
+P17697	reviewed	CLUS_BOVIN	Clusterin (Glycoprotein III) (GpIII) [Cleaved into: Clusterin beta chain; Clusterin alpha chain]	CLU	Bos taurus (Bovine)	439
+P17977	reviewed	CATG_RAT	Cathepsin G (EC 3.4.21.20)	Ctsg	Rattus norvegicus (Rat)	250
+P19171	reviewed	CHIB_ARATH	Basic endochitinase B (EC 3.2.1.14) (Pathogenesis-related protein 3) (AtChiB) (PR-3)	CHI-B PR3 At3g12500 MQC3.32 T2E22.18 T2E22_119	Arabidopsis thaliana (Mouse-ear cress)	335
+P19660	reviewed	CTHL2_BOVIN	Cathelicidin-2 (Bactenecin-5) (Bac5) (PR-42)	CATHL2 BAC5	Bos taurus (Bovine)	176
+P19661	reviewed	CTHL3_BOVIN	Cathelicidin-3 (Bactenecin-7) (Bac7) (PR-59)	CATHL3 BAC7	Bos taurus (Bovine)	190
+P19957	reviewed	ELAF_HUMAN	Elafin (Elastase-specific inhibitor) (ESI) (Peptidase inhibitor 3) (PI-3) (Protease inhibitor WAP3) (Skin-derived antileukoproteinase) (SKALP) (WAP four-disulfide core domain protein 14)	PI3 WAP3 WFDC14	Homo sapiens (Human)	117
+P22226	reviewed	CTHL1_BOVIN	Cathelicidin-1 (Bactenecin-1) (Bac1) (Cyclic dodecapeptide)	CATHL1 BAC1	Bos taurus (Bovine)	155
+P22749	reviewed	GNLY_HUMAN	Granulysin (Lymphokine LAG-2) (Protein NKG5) (T-cell activation protein 519)	GNLY LAG2 NKG5 TLA519	Homo sapiens (Human)	145
+P24091	reviewed	CHI2_TOBAC	Endochitinase B (CHN-B) (EC 3.2.1.14)	CHN50	Nicotiana tabacum (Common tobacco)	324
+P24158	reviewed	PRTN3_HUMAN	Myeloblastin (EC 3.4.21.76) (AGP7) (C-ANCA antigen) (Leukocyte proteinase 3) (PR-3) (PR3) (Neutrophil proteinase 4) (NP-4) (P29) (Wegener autoantigen)	PRTN3 MBN	Homo sapiens (Human)	256
+P24627	reviewed	TRFL_BOVIN	Lactotransferrin (Lactoferrin) (EC 3.4.21.-) [Cleaved into: Lactoferricin-B (Lfcin-B)]	LTF	Bos taurus (Bovine)	708
+P25031	reviewed	REG3B_RAT	Regenerating islet-derived protein 3-beta (REG-3-beta) (Pancreatitis-associated protein 1) (Peptide 23) (REG-2) (Regenerating islet-derived protein III-beta) (Reg III-beta) [Cleaved into: Regenerating islet-derived protein 3-beta 16.5 kDa form; Regenerating islet-derived protein 3-beta 15 kDa form]	Reg3b Pap Pap1 Reg2	Rattus norvegicus (Rat)	175
+P26339	reviewed	CMGA_MOUSE	Chromogranin-A (CgA) [Cleaved into: Pancreastatin; Beta-granin; WE-14; Catestatin; GE-25; Serpinin-RRG; Serpinin (AL26); p-Glu serpinin precursor]	Chga	Mus musculus (Mouse)	463
+P27043	reviewed	ANGI_CHICK	Angiogenin (EC 3.1.27.-) (Ribonuclease A)	ANG	Gallus gallus (Chicken)	139
+P28293	reviewed	CATG_MOUSE	Cathepsin G (EC 3.4.21.20) (Vimentin-specific protease) (VSP)	Ctsg	Mus musculus (Mouse)	261
+P29022	reviewed	CHIA_MAIZE	Endochitinase A (EC 3.2.1.14) (ChitA) (Chitinase-A) (Seed chitinase A) (allergen Zea m 8)	CHIA CTA1	Zea mays (Maize)	280
+P31107	reviewed	DRS2_PHYBI	Dermaseptin-B2 (DRS-B2) (Adenoregulin) (Dermaseptin BII)	ADR	Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	81
+P31482	reviewed	PA2GA_MOUSE	Phospholipase A2, membrane associated (EC 3.1.1.4) (Enhancing factor) (EF) (GIIC sPLA2) (Group IIA phospholipase A2) (Phosphatidylcholine 2-acylhydrolase 2A)	Pla2g2a	Mus musculus (Mouse)	146
+P34690	reviewed	TBA2_CAEEL	Tubulin alpha-2 chain (EC 3.6.5.-)	tba-2 C47B2.3	Caenorhabditis elegans	448
+P35030	reviewed	TRY3_HUMAN	Trypsin-3 (EC 3.4.21.4) (Brain trypsinogen) (Mesotrypsin) (Mesotrypsinogen) (Serine protease 3) (Serine protease 4) (Trypsin III) (Trypsin IV)	PRSS3 PRSS4 TRY3 TRY4	Homo sapiens (Human)	304
+P35230	reviewed	REG3B_MOUSE	Regenerating islet-derived protein 3-beta (REG-3-beta) (Pancreatitis-associated protein 1) (Regenerating islet-derived protein III-beta) (Reg III-beta) [Cleaved into: Regenerating islet-derived protein 3-beta 16.5 kDa form; Regenerating islet-derived protein 3-beta 15 kDa form]	Reg3b Pap Pap1	Mus musculus (Mouse)	175
+P36193	reviewed	DROS_DROME	Drosocin antimicrobial peptides [Cleaved into: Drosocin; Buletin (DIM 7) (IM7)]	Dro CG10816	Drosophila melanogaster (Fruit fly)	64
+P37001	reviewed	PAGP_ECOLI	Lipid A palmitoyltransferase PagP (EC 2.3.1.251) (Lipid A acylation protein)	pagP crcA ybeG b0622 JW0617	Escherichia coli (strain K12)	186
+P41797	reviewed	HSP71_CANAL	Heat shock protein HSP70 (SSA subfamily protein 1)	HSP70 HS71 SSA1 SSA4 CAALFM_C113480WA CaO19.12447 CaO19.4980	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	656
+P42820	reviewed	CHIP_BETVU	Acidic endochitinase SP2 (EC 3.2.1.14)	SP2	Beta vulgaris (Sugar beet)	288
+P42854	reviewed	REG3G_RAT	Regenerating islet-derived protein 3-gamma (REG-3-gamma) (Pancreatitis-associated protein 3) (Regenerating islet-derived protein III-gamma) (Reg III-gamma) [Cleaved into: Regenerating islet-derived protein 3-gamma 16.5 kDa form; Regenerating islet-derived protein 3-gamma 15 kDa form]	Reg3g Pap3	Rattus norvegicus (Rat)	174
+P43082	reviewed	HEVL_ARATH	Hevein-like preproprotein [Cleaved into: CB-HEL; CD-HEL (EC 3.1.-.-) (RNase)]	HEL At3g04720 F7O18.21	Arabidopsis thaliana (Mouse-ear cress)	212
+P46158	reviewed	GLL2_CHICK	Gallinacin-2 (Gal-2) (Beta-defensin 2)	GAL2	Gallus gallus (Chicken)	64
+P46587	reviewed	HSP72_CANAL	Heat shock protein SSA2 (SSA subfamily protein 2)	SSA2 SSA1 CAALFM_C104300CA CaO19.1065 CaO19.8667	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	645
+P49913	reviewed	CAMP_HUMAN	Cathelicidin antimicrobial peptide (18 kDa cationic antimicrobial protein) (CAP-18) (hCAP-18) [Cleaved into: Antibacterial peptide FALL-39 (FALL-39 peptide antibiotic); Antibacterial peptide LL-37; Antibacterial peptide KR-20; Antibacterial peptide LL-23; Antibacterial peptide LL-29; Antibacterial peptide KS-30; Antibacterial peptide RK-31; Antibacterial peptide FF-33]	CAMP CAP18 FALL39 HSD26	Homo sapiens (Human)	170
+P51437	reviewed	CAMP_MOUSE	Cathelicidin antimicrobial peptide (Cathelin-like protein) (CLP) [Cleaved into: Cathelin-related antimicrobial peptide (Cramp)]	Camp Cnlp Cramp	Mus musculus (Mouse)	172
+P52275	reviewed	TBB2_CAEEL	Tubulin beta-2 chain (Beta-2-tubulin)	tbb-2 C36E8.5	Caenorhabditis elegans	450
+P55824	reviewed	FAF_DROME	Probable ubiquitin carboxyl-terminal hydrolase FAF (EC 3.4.19.12) (Protein fat facets) (Ubiquitin thioesterase FAF) (Ubiquitin-specific-processing protease FAF) (Deubiquitinating enzyme FAF)	faf CG1945	Drosophila melanogaster (Fruit fly)	2778
+P56917	reviewed	TPA_RANTE	Temporin-1Ta (TA) (Temporin-A)		Rana temporaria (European common frog)	13
+P57053	reviewed	H2BFS_HUMAN	Histone H2B type F-S (H2B-clustered histone 12 like) (H2B.S histone 1) (Histone H2B.s) (H2B/s)	H2BC12L H2BFS H2BS1	Homo sapiens (Human)	126
+P57104	reviewed	TPL_RANTE	Temporin-1Tl (TL) (Temporin-L)		Rana temporaria (European common frog)	13
+P59044	reviewed	NLRP6_HUMAN	NACHT, LRR and PYD domains-containing protein 6 (Angiotensin II/vasopressin receptor) (PYRIN-containing APAF1-like protein 5)	NLRP6 NALP6 PYPAF5	Homo sapiens (Human)	892
+P59665	reviewed	DEF1_HUMAN	Neutrophil defensin 1 (Defensin, alpha 1) (HNP-1) (HP-1) (HP1) [Cleaved into: HP 1-56; Neutrophil defensin 2 (HNP-2) (HP-2) (HP2)]	DEFA1 DEF1 DEFA2 MRS; DEFA1B	Homo sapiens (Human)	94
+P59827	reviewed	BPIB4_HUMAN	BPI fold-containing family B member 4 (Ligand-binding protein RY2G5) (Long palate, lung and nasal epithelium carcinoma-associated protein 4)	BPIFB4 C20orf186 LPLUNC4	Homo sapiens (Human)	614
+P61507	reviewed	LYT1_HOGCA	M-lycotoxin-Hc1a (M-LCTX-Hc1a) (Lycotoxin I) (Lycotoxin-1)		Hogna carolinensis (Carolina wolf spider) (Lycosa carolinensis)	25
+P61626	reviewed	LYSC_HUMAN	Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)	LYZ LZM	Homo sapiens (Human)	148
+P62807	reviewed	H2B1C_HUMAN	Histone H2B type 1-C/E/F/G/I (Histone H2B.1 A) (Histone H2B.a) (H2B/a) (Histone H2B.g) (H2B/g) (Histone H2B.h) (H2B/h) (Histone H2B.k) (H2B/k) (Histone H2B.l) (H2B/l)	H2BC4 H2BFL HIST1H2BC; H2BC6 H2BFH HIST1H2BE; H2BC7 H2BFG HIST1H2BF; H2BC8 H2BFA HIST1H2BG; H2BC10 H2BFK HIST1H2BI	Homo sapiens (Human)	126
+P76445	reviewed	LPXT_ECOLI	Lipid A 1-diphosphate synthase (EC 2.7.4.29) (Kdo(2)-lipid A phosphotransferase) (Undecaprenyl pyrophosphate:lipid A 1-phosphate phosphotransferase)	lpxT yeiU b2174 JW2162	Escherichia coli (strain K12)	237
+P77398	reviewed	ARNA_ECOLI	Bifunctional polymyxin resistance protein ArnA (Polymyxin resistance protein PmrI) [Includes: UDP-4-amino-4-deoxy-L-arabinose formyltransferase (EC 2.1.2.13) (ArnAFT) (UDP-L-Ara4N formyltransferase); UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating (EC 1.1.1.305) (ArnADH) (UDP-GlcUA decarboxylase) (UDP-glucuronic acid dehydrogenase)]	arnA pmrI yfbG b2255 JW2249	Escherichia coli (strain K12)	660
+P79874	reviewed	TPB_RANTE	Temporin-1Tb (TB) (Temporin-B)		Rana temporaria (European common frog)	61
+P81058	reviewed	PEN3A_PENVA	Penaeidin-3a (P3-a) (Pen-3a)		Penaeus vannamei (Whiteleg shrimp) (Litopenaeus vannamei)	82
+P81605	reviewed	DCD_HUMAN	Dermcidin (EC 3.4.-.-) (Preproteolysin) [Cleaved into: Survival-promoting peptide; DCD-1]	DCD AIDD DSEP	Homo sapiens (Human)	110
+P83080	reviewed	M1H1_BOMMX	Maximins 1/H1 [Cleaved into: Maximin-1 (Host defense peptide) (HDP); Maximin-H1 (Maximin-6)]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+P83082	reviewed	M3H2_BOMMX	Maximins 3/H2 [Cleaved into: Maximin-3; Maximin-H2]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+P85966	reviewed	AMP_TRIKH	Antimicrobial peptide 1b (WAMP-1b) (Antimicrobial peptide H1) (Tk-AMP-H1) [Cleaved into: Antimicrobial peptide 1a (WAMP-1a)]		Triticum kiharae (Wheat)	116
+P93680	reviewed	CHIT_PERAE	Endochitinase (EC 3.2.1.14) (Allergen Pers a 1) (Allergen Prs a 1) (Chitin-binding avocado protein) (CBAP) (Class I chitinase) (PaI1) (allergen Pers a 1.0101)	chi1	Persea americana (Avocado)	326
+P97361	reviewed	BPIA1_MOUSE	BPI fold-containing family A member 1 (Palate lung and nasal epithelium clone protein)	Bpifa1 Plunc Splunc1	Mus musculus (Mouse)	278
+P9WFU7	reviewed	LYSX_MYCTU	Lysylphosphatidylglycerol biosynthesis bifunctional protein LysX [Includes: Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS); Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthetase) (LPG synthetase)]	lysX lysS2 lysU mprF Rv1640c MTCY06H11.04c	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	1172
+P9WQI9	reviewed	BACA_MYCTU	Hydrophilic compounds import ATP-binding/permease protein BacA (EC 7.6.2.-) (Hydrophilic compounds ABC transporter BacA)	bacA Rv1819c MTCY1A11.24c	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	639
+Q01524	reviewed	DEF6_HUMAN	Defensin-6 (Defensin, alpha 6)	DEFA6 DEF6	Homo sapiens (Human)	100
+Q05538	reviewed	CHIC_SOLLC	Basic 30 kDa endochitinase (EC 3.2.1.14)	CHI9	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	322
+Q06141	reviewed	REG3A_HUMAN	Regenerating islet-derived protein 3-alpha (REG-3-alpha) (Hepatointestinal pancreatic protein) (HIP/PAP) (Human proislet peptide) (HIP) (Pancreatitis-associated protein 1) (Regenerating islet-derived protein III-alpha) (Reg III-alpha) [Cleaved into: Regenerating islet-derived protein 3-alpha 16.5 kDa form; Regenerating islet-derived protein 3-alpha 15 kDa form]	REG3A HIP PAP PAP1	Homo sapiens (Human)	175
+Q06890	reviewed	CLUS_MOUSE	Clusterin (Apolipoprotein J) (Apo-J) (Clustrin) (Sulfated glycoprotein 2) (SGP-2) [Cleaved into: Clusterin beta chain; Clusterin alpha chain]	Clu Apoj Msgp-2	Mus musculus (Mouse)	448
+Q16552	reviewed	IL17_HUMAN	Interleukin-17A (IL-17) (IL-17A) (Cytotoxic T-lymphocyte-associated antigen 8) (CTLA-8)	IL17A CTLA8 IL17	Homo sapiens (Human)	155
+Q16778	reviewed	H2B2E_HUMAN	Histone H2B type 2-E (H2B-clustered histone 21) (Histone H2B-GL105) (Histone H2B.q) (H2B/q)	H2BC21 H2BFQ HIST2H2BE	Homo sapiens (Human)	126
+Q19572	reviewed	GPA12_CAEEL	Guanine nucleotide-binding protein alpha-12 subunit	gpa-12 F18G5.3	Caenorhabditis elegans	355
+Q1ELU3	reviewed	LAT3A_LACTA	M-zodatoxin-Lt3a (M-ZDTX-Lt3a) (La47) (Latarcin-3a) (Ltc-3a)		Lachesana tarabaevi (Spider)	82
+Q1ID47	reviewed	APRA_PSEE4	Metalloprotease AprA (EC 3.4.24.-)	aprA PSEEN1550	Pseudomonas entomophila (strain L48)	485
+Q20977	reviewed	STATB_CAEEL	Signal transducer and activator of transcription b (Zinc finger protein STAT-B)	sta-2 stat-b F58E6.1	Caenorhabditis elegans	567
+Q24307	reviewed	DIAP2_DROME	Death-associated inhibitor of apoptosis 2 (Apoptosis 2 inhibitor) (IAP homolog A) (IAP-like protein) (ILP) (dILP) (Inhibitor of apoptosis 2)	Diap2 DIHA Iap2 Ilp CG8293	Drosophila melanogaster (Fruit fly)	498
+Q27591	reviewed	ITBN_DROME	Integrin beta-nu	Itgbn beta-nu betaInt-nu Itgbetanu CG1762	Drosophila melanogaster (Fruit fly)	799
+Q29549	reviewed	CLUS_PIG	Clusterin (CP40) (Complement cytolysis inhibitor) (CLI) [Cleaved into: Clusterin beta chain; Clusterin alpha chain]	CLU	Sus scrofa (Pig)	446
+Q3UP87	reviewed	ELNE_MOUSE	Neutrophil elastase (EC 3.4.21.37) (Elastase-2) (Leukocyte elastase)	Elane Ela2	Mus musculus (Mouse)	265
+Q45585	reviewed	SIGW_BACSU	ECF RNA polymerase sigma factor SigW (ECF sigma factor SigW) (Alternative RNA polymerase sigma factor SigW) (RNA polymerase sigma-W factor) (Sigma-W factor)	sigW ybbL BSU01730	Bacillus subtilis (strain 168)	187
+Q45588	reviewed	RSIW_BACSU	Anti-sigma-W factor RsiW (Regulator of SigW) (Sigma-W anti-sigma factor RsiW)	rsiW ybbM BSU01740	Bacillus subtilis (strain 168)	208
+Q53705	reviewed	LYTS_STAA8	Sensor histidine kinase/phosphatase LytS (EC 2.7.13.3) (EC 3.1.3.-) (Autolysin sensor kinase)	lytS SAOUHSC_00230	Staphylococcus aureus (strain NCTC 8325 / PS 47)	584
+Q5ANA3	reviewed	CDR1_CANAL	Pleiotropic ABC efflux transporter of multiple drugs CDR1 (Pleiotropic drug resistance protein CDR1)	CDR1 CAALFM_C305220WA CaO19.13421 CaO19.6000	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	1501
+Q5GC92	reviewed	MAXSB_BOMMX	Maximins-S type B/C [Cleaved into: Maximin-S1; Maximin-S3; Maximin-S5; Maximin-S2; Maximin-S4]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	305
+Q5NTA4	reviewed	CHI4_CRYJA	Endochitinase 4 (EC 3.2.1.14) (Chitinase class IV) (CJP-4) (allergen Cry j Chitinase)		Cryptomeria japonica (Japanese cedar) (Cupressus japonica)	281
+Q60943	reviewed	I17RA_MOUSE	Interleukin-17 receptor A (IL-17 receptor A) (IL-17RA) (CD antigen CD217)	Il17ra Il17r	Mus musculus (Mouse)	864
+Q62386	reviewed	IL17_MOUSE	Interleukin-17A (IL-17) (IL-17A) (Cytotoxic T-lymphocyte-associated antigen 8) (CTLA-8)	Il17a Ctla8 Il17	Mus musculus (Mouse)	158
+Q63035	reviewed	NLRP6_RAT	NACHT, LRR and PYD domains-containing protein 6 (Angiotensin II/vasopressin receptor) (Non-angiotensin-vasopressin receptor) (Non-AVR) (PYRIN-containing APAF1-like protein 5-like)	Nlrp6 Nalp6 Navr Pypaf5	Rattus norvegicus (Rat)	881
+Q6QLQ5	reviewed	CTHL1_CHICK	Cathelicidin-1 (CATH-1) (Fowlicidin-1)	CATHL1 CATH	Gallus gallus (Chicken)	148
+Q6UW15	reviewed	REG3G_HUMAN	Regenerating islet-derived protein 3-gamma (REG-3-gamma) (Pancreatitis-associated protein 1B) (PAP-1B) (Pancreatitis-associated protein IB) (PAP IB) (Regenerating islet-derived protein III-gamma) (REG III) (Reg III-gamma) [Cleaved into: Regenerating islet-derived protein 3-gamma 16.5 kDa form; Regenerating islet-derived protein 3-gamma 15 kDa form]	REG3G PAP1B UNQ429/PRO162	Homo sapiens (Human)	175
+Q6YT39	unreviewed	Q6YT39_PIG	Lactotransferrin	LTF	Sus scrofa (Pig)	704
+Q7DNA1	reviewed	CHI2_ORYSJ	Chitinase 2 (EC 3.2.1.14) (Class I chitinase b) (OsChia1b) (Pathogenesis related (PR)-3 chitinase 2)	Cht2 RC7 Os05g0399300 LOC_Os05g33130 OsJ_18467	Oryza sativa subsp. japonica (Rice)	340
+Q7K4Z4	reviewed	IMD_DROME	Protein immune deficiency	imd CG5576	Drosophila melanogaster (Fruit fly)	273
+Q7TNI7	reviewed	IL17F_MOUSE	Interleukin-17F (IL-17F)	Il17f	Mus musculus (Mouse)	161
+Q834B6	reviewed	LIAX_ENTFA	Putative adhesin domain-containing protein LiaX (Daptomycin-sensing surface protein LiaX)	liaX EF_1753	Enterococcus faecalis (strain ATCC 700802 / V583)	533
+Q86DA5	reviewed	SARM1_CAEEL	NAD(+) hydrolase tir-1 (NADase tir-1) (EC 3.2.2.6) (Neuronal symmetry protein 2) (SARM1 homolog) (Sterile alpha and TIR motif-containing protein tir-1)	tir-1 nsy-2 F13B10.1	Caenorhabditis elegans	981
+Q86LE5	reviewed	MPSIN_RHIMP	Antimicrobial peptide microplusin (Microplusin)		Rhipicephalus microplus (Cattle tick) (Boophilus microplus)	110
+Q8IQ27	reviewed	UBP2_DROME	Ubiquitin carboxyl-terminal hydrolase Usp2 (EC 3.4.19.12) (Ubiquitin specific protease 2)	Usp2 CG14619	Drosophila melanogaster (Fruit fly)	938
+Q8K4C2	reviewed	I17RC_MOUSE	Interleukin-17 receptor C (IL-17 receptor C) (IL-17RC) (Interleukin-17 receptor-like protein) (IL-17RL) (ZcytoR14)	Il17rc	Mus musculus (Mouse)	698
+Q8N4F0	reviewed	BPIB2_HUMAN	BPI fold-containing family B member 2 (Bactericidal/permeability-increasing protein-like 1) (BPI-like 1) (Long palate, lung and nasal epithelium carcinoma-associated protein 2) (RYSR)	BPIFB2 BPIL1 C20orf184 LPLUNC2 UNQ2489/PRO5776	Homo sapiens (Human)	458
+Q8N8V2	reviewed	GBP7_HUMAN	Guanylate-binding protein 7 (EC 3.6.1.-) (EC 3.6.5.-) (GTP-binding protein 7) (GBP-7) (Guanine nucleotide-binding protein 7) (Guanylate-binding protein 4-like)	GBP7 GBP4L	Homo sapiens (Human)	638
+Q8NAC3	reviewed	I17RC_HUMAN	Interleukin-17 receptor C (IL-17 receptor C) (IL-17RC) (Interleukin-17 receptor homolog) (IL17Rhom) (Interleukin-17 receptor-like protein) (IL-17RL) (ZcytoR14)	IL17RC UNQ6118/PRO20040/PRO38901	Homo sapiens (Human)	791
+Q8SPP7	reviewed	PGRP1_BOVIN	Peptidoglycan recognition protein 1 (Oligosaccharide-binding protein) (OBP) (Peptidoglycan recognition protein short) (PGRP-S)	PGLYRP1 PGLYRP PGRP	Bos taurus (Bovine)	190
+Q8SXQ7	reviewed	PGPLF_DROME	Peptidoglycan-recognition protein LF (PGRP-like protein)	PGRP-LF CG4437	Drosophila melanogaster (Fruit fly)	369
+Q8TDL5	reviewed	BPIB1_HUMAN	BPI fold-containing family B member 1 (Long palate, lung and nasal epithelium carcinoma-associated protein 1) (von Ebner minor salivary gland protein) (VEMSGP)	BPIFB1 C20orf114 LPLUNC1 UNQ706/PRO1357	Homo sapiens (Human)	484
+Q8VCS0	reviewed	PGRP2_MOUSE	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) (Peptidoglycan recognition protein 2) (Peptidoglycan recognition protein long) (PGRP-L) (TagL)	Pglyrp2 Pglyrpl Pgrpl	Mus musculus (Mouse)	530
+Q8WWA0	reviewed	ITLN1_HUMAN	Intelectin-1 (ITLN-1) (Endothelial lectin HL-1) (Galactofuranose-binding lectin) (Intestinal lactoferrin receptor) (Omentin)	ITLN1 INTL ITLN LFR UNQ640/PRO1270	Homo sapiens (Human)	313
+Q8ZNF3	reviewed	ARNB_SALTY	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (Polymyxin resistance protein PmrH) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB pbgP pbgP1 pmrH STM2297	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	385
+Q8ZR06	reviewed	PAGP_SALTY	Lipid A acyltransferase PagP (EC 2.3.1.251) (Antimicrobial peptide resistance) (Lipid A acylation protein)	pagP STM0628	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	190
+Q91WS2	reviewed	NLRP6_MOUSE	NACHT, LRR and PYD domains-containing protein 6 (Angiotensin II/vasopressin receptor) (Non-angiotensin-vasopressin receptor) (Non-AVR) (PYRIN-containing APAF1-like protein 5-like)	Nlrp6 Nalp6 Navr Pypaf5	Mus musculus (Mouse)	869
+Q91Z40	reviewed	GBP7_MOUSE	Guanylate-binding protein 7 (EC 3.6.1.-) (EC 3.6.5.-) (GTP-binding protein 7) (GBP-7) (Guanine nucleotide-binding protein 7) (Guanylate-binding protein 4-like)	Gbp7 Gbp4l	Mus musculus (Mouse)	638
+Q93091	reviewed	RNAS6_HUMAN	Ribonuclease K6 (RNase K6) (EC 3.1.27.-)	RNASE6 RNS6	Homo sapiens (Human)	150
+Q96DR5	reviewed	BPIA2_HUMAN	BPI fold-containing family A member 2 (Parotid secretory protein) (PSP) (Short palate, lung and nasal epithelium carcinoma-associated protein 2)	BPIFA2 C20orf70 SPLUNC2 UNQ510/PRO1025	Homo sapiens (Human)	249
+Q96F46	reviewed	I17RA_HUMAN	Interleukin-17 receptor A (IL-17 receptor A) (IL-17RA) (CDw217) (CD antigen CD217)	IL17RA IL17R	Homo sapiens (Human)	866
+Q96LB8	reviewed	PGRP4_HUMAN	Peptidoglycan recognition protein 4 (Peptidoglycan recognition protein I-beta) (PGLYRPIbeta) (PGRP-I-beta) (Peptidoglycan recognition protein intermediate beta)	PGLYRP4 PGRPIB SBBI67	Homo sapiens (Human)	373
+Q96LB9	reviewed	PGRP3_HUMAN	Peptidoglycan recognition protein 3 (Peptidoglycan recognition protein I-alpha) (PGLYRPIalpha) (PGRP-I-alpha) (Peptidoglycan recognition protein intermediate alpha)	PGLYRP3 PGRPIA	Homo sapiens (Human)	341
+Q96PD4	reviewed	IL17F_HUMAN	Interleukin-17F (IL-17F) (Cytokine ML-1)	IL17F	Homo sapiens (Human)	163
+Q96PD5	reviewed	PGRP2_HUMAN	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) (Peptidoglycan recognition protein 2) (Peptidoglycan recognition protein long) (PGRP-L)	PGLYRP2 PGLYRPL PGRPL UNQ3103/PRO10102	Homo sapiens (Human)	576
+Q9D244	reviewed	RNAS6_MOUSE	Ribonuclease K6 (RNase K6) (EC 3.1.27.-)	Rnase6	Mus musculus (Mouse)	153
+Q9FRV1	reviewed	CHIA_SECCE	Basic endochitinase A (EC 3.2.1.14) (Rye seed chitinase-a) (RSC-a)	rsca	Secale cereale (Rye)	321
+Q9H1E1	reviewed	RNAS7_HUMAN	Ribonuclease 7 (RNase 7) (EC 3.1.27.-) (Skin-derived antimicrobial protein 2) (SAP-2)	RNASE7 UNQ2516/PRO6006	Homo sapiens (Human)	156
+Q9JLN4	reviewed	PGRP1_RAT	Peptidoglycan recognition protein 1 (Peptidoglycan recognition protein short) (PGRP-S)	Pglyrp1 Pglyrp Pgrp	Rattus norvegicus (Rat)	183
+Q9M2U5	reviewed	CHI5_ARATH	Endochitinase EP3 (EC 3.2.1.14) (Chitinase class IV) (AtchitIV) (Protein HOMOLOG OF CARROT EP3-3 CHITINASE) (AtEP3)	EP3 CHIV At3g54420 T12E18.110	Arabidopsis thaliana (Mouse-ear cress)	273
+Q9NHB0	reviewed	GNBP1_DROME	Gram-negative bacteria-binding protein 1	GNBP1 CG6895	Drosophila melanogaster (Fruit fly)	494
+Q9NP55	reviewed	BPIA1_HUMAN	BPI fold-containing family A member 1 (Lung-specific protein X) (Nasopharyngeal carcinoma-related protein) (Palate lung and nasal epithelium clone protein) (Secretory protein in upper respiratory tracts) (Short PLUNC1) (SPLUNC1) (Tracheal epithelium-enriched protein) (Von Ebner protein Hl)	BPIFA1 LUNX NASG PLUNC SPLUNC1 SPURT UNQ787/PRO1606	Homo sapiens (Human)	256
+Q9NZH7	reviewed	IL36B_HUMAN	Interleukin-36 beta (FIL1 eta) (Interleukin-1 eta) (IL-1 eta) (Interleukin-1 family member 8) (IL-1F8) (Interleukin-1 homolog 2) (IL-1H2)	IL36B IL1F8 IL1H2	Homo sapiens (Human)	164
+Q9QUK9	reviewed	TRY5_MOUSE	Trypsin-5 (EC 3.4.21.4) (Testicular-specific serine protease 4) (Trypsinogen 9) (T9)	Try5 Tc Tesp4	Mus musculus (Mouse)	246
+Q9R0T7	reviewed	TRY4_MOUSE	Trypsin-4 (EC 3.4.21.4)	Try4 T8 Td	Mus musculus (Mouse)	246
+Q9SPL3	reviewed	AMP23_MACIN	Vicilin-like antimicrobial peptides 2-3 (MiAMP2) (Vicilin-like protein Mac i 1) (allergen Mac i 1.0101) [Cleaved into: Antimicrobial peptide 2a (MiAMP2a); Antimicrobial peptide 2b (MiAMP2b); Antimicrobial peptide 2c-1 (MiAMP2c-1); Antimicrobial peptide 2c-2 (MiAMP2c-2); Antimicrobial peptide 2c-3 (MiAMP2c-3); Antimicrobial peptide 2d (MiAMP2d)]	AMP2-3	Macadamia integrifolia (Macadamia nut)	625
+Q9V3Z2	reviewed	SER7_DROME	Serine protease 7 (EC 3.4.21.-) (Melanization protease 2)	Sp7 MP2 PAE1 CG3066	Drosophila melanogaster (Fruit fly)	391
+Q9V477	reviewed	TOLL8_DROME	Toll-like receptor Tollo (Toll-like receptor 8)	Tollo Tl-8 Toll-8 CG6890	Drosophila melanogaster (Fruit fly)	1346
+Q9VC56	reviewed	PUF_DROME	Ubiquitin carboxyl-terminal hydrolase puf (EC 3.4.19.12) (Protein puffyeye)	puf Usp34 CG5794	Drosophila melanogaster (Fruit fly)	3912
+Q9VYX7	reviewed	PGPSA_DROME	Peptidoglycan-recognition protein SA (EC 3.4.17.13) (Protein semmelweis)	PGRP-SA seml CG11709	Drosophila melanogaster (Fruit fly)	203
+A0A0F6B506	reviewed	SARA_SALT1	Salmonella anti-inflammatory response activator (SarA) (Salmonella translocated effector E)	sarA gogC pagJ steE stm2585 STM14_3166	Salmonella typhimurium (strain 14028s / SGSC 2262)	181
+A0A144LVL3	reviewed	CTCN2_ECHES	Centrocin 2 (EeCentrocin 2) [Cleaved into: Centrocin 2, heavy chain; Centrocin 2, light chain]		Echinus esculentus (Sea urchin)	121
+A0A1S6EK91	reviewed	MO1_MOROL	Morintide mO1 (8C-hevein-like protein)		Moringa oleifera (Horseradish tree) (Moringa pterygosperma)	79
+A0A2I8B346	reviewed	AMP1_PARCM	Paralithocin 1 (P23)		Paralithodes camtschaticus (Red king crab) (Maja camtschatica)	62
+A0A2I8B352	reviewed	AMP2_PARCM	Paralithocin 2 (P30)		Paralithodes camtschaticus (Red king crab) (Maja camtschatica)	71
+A0A2I8B353	reviewed	AMP3_PARCM	Paralithocin 3 (P34)		Paralithodes camtschaticus (Red king crab) (Maja camtschatica)	76
+A0AEI5	reviewed	BR2B_SYLGU	Brevinin-2GHb (AMP-2)	br2GHb	Sylvirana guentheri (Gunther's frog) (Rana guentheri)	72
+A0AEI6	reviewed	BR2C_SYLGU	Brevinin-2GHc (AMP-4)	br2GHc	Sylvirana guentheri (Gunther's frog) (Rana guentheri)	72
+A7XQ02	reviewed	MLX56_MORAL	Mulatexin (MLX56) (Latex protein)		Morus alba (White mulberry)	415
+A8AUS0	reviewed	SSPA_STRGC	Streptococcal surface protein A (Adhesin SspS)	sspA SGO_0210	Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)	1575
+A8AUS1	reviewed	SSPB_STRGC	Streptococcal surface protein B (Adhesin SspB)	sspB SGO_0211	Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288)	1499
+A8CZZ0	reviewed	SP151_IXORI	Salivary protein 15 Iric-1 (Salp15 Iric-1) (Probable ortholog of I.scapularis salivary protein 15) (Salp15-like)		Ixodes ricinus (Common tick) (Acarus ricinus)	134
+A8DY01	reviewed	PLEA1_NIDPL	Pleurain-A1		Nidirana pleuraden (Yunnan pond frog) (Babina pleuraden)	69
+B3A0M3	reviewed	BR2_ODOJI	Brevinin-2JD		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	33
+B3A0M6	reviewed	NIG2A_ODOJI	Nigrocin-2JDa		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	21
+B3A0M7	reviewed	NIG2B_ODOJI	Nigrocin-2JDb		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	21
+B3KYH4	reviewed	TPA_PELSA	Temporin-SHa (Temporin-1Sa) (Temp-1Sa)		Pelophylax saharicus (Sahara frog) (Rana saharica)	50
+B3KYH6	reviewed	TPC_PELSA	Temporin-SHc (Temporin-1Sc) (Temp-1Sc)		Pelophylax saharicus (Sahara frog) (Rana saharica)	50
+B3VZU0	reviewed	BR1CA_RANDY	Brevinin-1CDYa		Rana dybowskii (Dybovsky's frog) (Korean brown frog)	67
+B7XFU7	reviewed	SP151_IXOPE	Salivary protein 15 Iper-1 (IperSalp15-1) (Salp15 Iper-1) (Salp15-like)	Salp15	Ixodes persulcatus (Taiga tick)	135
+B7XFU8	reviewed	SP152_IXOPE	Salivary protein 15 Iper-2 (IperSalp15-2) (Salp15 Iper-2) (Salp15-like)	Salp15	Ixodes persulcatus (Taiga tick)	132
+C0H3X7	reviewed	MPRF_BACSU	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase) (LPG synthase)	mprF yfiW yfiX BSU08425 BSU08420 BSU08430	Bacillus subtilis (strain 168)	856
+C0HK42	reviewed	LL1_LASLA	Lasioglossin-1 (LL-I)		Lasioglossum laticeps (Bee)	15
+C0HK43	reviewed	LL2_LASLA	Lasioglossin-2 (LL-II)		Lasioglossum laticeps (Bee)	15
+C0HL57	reviewed	NDB4C_ISOMC	Peptide Im-6		Isometrus maculatus (Lesser brown scorpion) (Scorpio maculatus)	16
+C0HL59	reviewed	NDB4A_ISOMC	Peptide Im-4 (Im4)		Isometrus maculatus (Lesser brown scorpion) (Scorpio maculatus)	74
+C0HL73	reviewed	NIG2B_ODOGR	Nigrocin-2GRb		Odorrana grahami (Yunnanfu frog) (Rana grahami)	21
+C0HL85	reviewed	PNGK_PANCL	Panurgine K (PNG-K)		Panurgus calcaratus (Solitary bee)	25
+C0HL86	reviewed	PNGR_PANCL	Panurgine R (PNG-R)		Panurgus calcaratus (Solitary bee)	25
+C0HLN6	reviewed	TURB_SYNTU	Turgencin-B		Synoicum turgens (Colonial ascidian)	35
+C3RT17	reviewed	GGN1_LIMKU	Gaegurin-LK1		Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii)	70
+C3RT18	reviewed	GGN2_LIMKU	Gaegurin-LK2		Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii)	70
+C3RT22	reviewed	TP1_LIMKU	Temporin-LK1		Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii)	65
+C3RT23	reviewed	RUG1_LIMKU	Rugosin-LK1		Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii)	75
+C3RT24	reviewed	RUG2_LIMKU	Rugosin-LK2		Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii)	75
+C5H0D4	reviewed	E2ALA_AMOLO	Esculentin-2-ALa (Amolopin-9a)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	76
+C5H0D5	reviewed	E2ALB_AMOLO	Esculentin-2-ALb (Amolopin-9b)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	76
+C5H0D6	reviewed	TPD_AMOLO	Temporin-ALd (Amolopin-2e)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	64
+C5H0D7	reviewed	TPE_AMOLO	Temporin-ALe (Amolopin-2f)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	64
+C5H0D8	reviewed	TPF_AMOLO	Temporin-ALf (Amolopin-2g)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	64
+C7B247	reviewed	NDB47_ISOMC	Imcroporin (Non-disulfide-bridged peptide 4.7) (NDBP-4.7)		Isometrus maculatus (Lesser brown scorpion) (Scorpio maculatus)	74
+E1UYT9	reviewed	AMP1_STEME	Antimicrobial peptide 1 (SmAMP1) [Cleaved into: Antimicrobial peptide 1.1a (SmAMP1.1a) (SmMP1.1a); Antimicrobial peptide 1.2a (Sm-AMP-1.2a)]		Stellaria media (Common chickweed) (Alsine media)	167
+E1WFA0	reviewed	PHOQ_SALTS	Virulence sensor histidine kinase PhoQ (EC 2.7.13.3) (EC 3.1.3.-) (Sensor histidine protein kinase/phosphatase PhoQ)	phoQ SL1344_1168	Salmonella typhimurium (strain SL1344)	487
+E7EKC4	reviewed	BR11_ODOHA	Brevinin-1HN1		Odorrana hainanensis (Odor frog) (Rana hainanensis)	71
+E7EKD0	reviewed	TP1_ODOHA	Temporin-HN1		Odorrana hainanensis (Odor frog) (Rana hainanensis)	62
+E7EKD4	reviewed	TP2_ODOHA	Temporin-HN2		Odorrana hainanensis (Odor frog) (Rana hainanensis)	59
+F1T149	reviewed	ES1IA_ODOIS	Esculentin-1SIa		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	84
+F1T150	reviewed	ES1IB_ODOIS	Esculentin-1ISb		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	84
+F1T151	reviewed	ES2IA_ODOIS	Esculentin-2ISa		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	78
+F1T152	reviewed	PA2IA_ODOIS	Palustrin-2ISa		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	70
+F1T156	reviewed	NIG2A_ODOIS	Nigrocin-2ISa		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	66
+F1T157	reviewed	NIG2B_ODOIS	Nigrocin-2ISb		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	66
+F2Z472	reviewed	SVS3A_MOUSE	Seminal vesicle secretory protein 3A (Seminal vesicle secretory protein III) (SVS III)	Svs3a Svs3	Mus musculus (Mouse)	265
+G3ETQ2	reviewed	JNG1A_AMOJI	Jindongenin-1a (Jindongenin-1)		Amolops jingdongensis (Chinese torrent frog)	66
+G3ETQ3	reviewed	P2AJ1_AMOJI	Palustrin-2AJ1		Amolops jingdongensis (Chinese torrent frog)	71
+G3MWP1	unreviewed	G3MWP1_BOVIN	Elastase, neutrophil expressed	ELANE	Bos taurus (Bovine)	284
+L0GCI6	reviewed	NDB4H_UROYA	Antimicrobial peptide UyCT3 (CT3) (Non-disulfide-bridged peptide 4.17) (NDBP-4.17) (Non-disulfide-bridged peptide 5.15) (NDBP-5.15)		Urodacus yaschenkoi (Inland robust scorpion)	68
+L0P329	reviewed	MDS_AGACL	Medusin-C1 (MDS-C1) (Medusin-AC) (Phyllin-AC)		Agalychnis callidryas (Red-eyed tree frog) (Phyllomedusa callidryas)	68
+L0P3K3	reviewed	MDS_AGADC	Medusin-DA1 (MDS-DA1) (Medusin-PD) (Phyllin-PD)		Agalychnis dacnicolor (Giant Mexican leaf frog) (Pachymedusa dacnicolor)	68
+L0P402	reviewed	MDS_PITHY	Medusin-H1 (MDS-H1) (Medusin-PH) (Phyllin-PH)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	67
+O16262	reviewed	NIPI4_CAEEL	Protein nipi-4 (No induction of peptide after drechmeria infection protein 4)	nipi-4 F40A3.5	Caenorhabditis elegans	396
+O24866	reviewed	LPXE_HELPY	Lipid A 1-phosphatase (EC 3.1.-.-)	lpxE HP_0021 C694_00100	Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacter pylori)	190
+O52324	reviewed	ARNC_SALTY	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Polymyxin resistance protein PmrF) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC pbgP2 pmrF STM2298	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	327
+O52327	reviewed	ARNT_SALTY	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.43) (4-amino-4-deoxy-L-arabinose lipid A transferase) (Lipid IV(A) 4-amino-4-deoxy-L-arabinosyltransferase) (Polymyxin resistance protein PmrK) (Undecaprenyl phosphate-alpha-L-Ara4N transferase)	arnT pmrK STM2301	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	547
+O93454	reviewed	PTC1_AGADC	Plasticin-DA1 (PTC-DA1) (Dermaseptin PD-3-6) (DRP-PD3-6) (PD36)		Agalychnis dacnicolor (Giant Mexican leaf frog) (Pachymedusa dacnicolor)	71
+P01376	reviewed	DEF3_RABIT	Corticostatin-3 (Antiadrenocorticotropin peptide III) (Corticostatin III) (CS-III) (Macrophage antibiotic peptide MCP-1) (NP-1)		Oryctolagus cuniculus (Rabbit)	95
+P01377	reviewed	DEF4_RABIT	Defensin alpha 4 (Antiadrenocorticotropin peptide IV) (Corticostatin IV) (CS-IV) (Corticostatin-4) (Macrophage antibiotic peptide MCP-2) (NP-2)		Oryctolagus cuniculus (Rabbit)	95
+P02858	reviewed	GLYG4_SOYBN	Glycinin G4 (Glycinin 11S G4) (Glycinin A5A4B3) (allergen Gly m 6) [Cleaved into: Glycinin A5 subunit; Glycinin A4 subunit; Glycinin B3 subunit]	GY4 Glyma10g04280	Glycine max (Soybean) (Glycine hispida)	563
+P02876	reviewed	AGI2_WHEAT	Agglutinin isolectin 2 (Isolectin D) (WGA2)		Triticum aestivum (Wheat)	213
+P02877	reviewed	HEVE_HEVBR	Pro-hevein (Major hevein) [Cleaved into: Hevein; Win-like protein]	HEV1	Hevea brasiliensis (Para rubber tree) (Siphonia brasiliensis)	204
+P06215	reviewed	CHIT_PHAVU	Endochitinase (EC 3.2.1.14)		Phaseolus vulgaris (Kidney bean) (French bean)	328
+P07198	reviewed	XENO_XENLA	Xenopsin peptides [Cleaved into: Xenopsin precursor fragment (XPF); Xenopsin]		Xenopus laevis (African clawed frog)	81
+P07469	reviewed	DEF1_RABIT	Corticostatin 1 (Antiadrenocorticotropin peptide I) (Corticostatin I) (CS-I) (Microbicidal peptide NP-3A) (Neutrophil antibiotic peptide NP-3A)		Oryctolagus cuniculus (Rabbit)	93
+P09805	reviewed	KTXA_KLULA	Killer toxin subunits alpha/beta (RF2 protein) [Cleaved into: Killer toxin subunit alpha; Killer toxin subunit beta (EC 3.2.1.14) (Endochitinase)]		Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	1146
+P0AAH8	reviewed	SAPF_ECOLI	Putrescine export system ATP-binding protein SapF	sapF b1290 JW1283	Escherichia coli (strain K12)	268
+P0AGH3	reviewed	SAPB_ECOLI	Putrescine export system permease protein SapB	sapB b1293 JW1286	Escherichia coli (strain K12)	321
+P0AGH5	reviewed	SAPC_ECOLI	Putrescine export system permease protein SapC	sapC b1292 JW1285	Escherichia coli (strain K12)	296
+P0C5W7	reviewed	BR1B_RANDY	Brevinin-1DYb (Brevinin-1CDYb)		Rana dybowskii (Dybovsky's frog) (Korean brown frog)	66
+P0CJ32	reviewed	ASCA8_ASCTR	Ascaphin-8		Ascaphus truei (Coastal tailed frog)	19
+P0DM78	reviewed	PHOP_SALTY	Virulence transcriptional regulatory protein PhoP (Acid shock protein 29) (ASP29)	phoP STM1231	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	224
+P0DQX4	reviewed	HAL1_HALST	Halictine-1 (HAL-1) (Halictin 1) (Halictine I)		Halictus sexcinctus (Six-banded furrow bee) (Apis sexcincta)	12
+P0DQX5	reviewed	HAL2_HALST	Halictine-2 (HAL-2) (Halictin 2) (Halictine II)		Halictus sexcinctus (Six-banded furrow bee) (Apis sexcincta)	12
+P0DQZ4	reviewed	MAST1_VESTR	Mastoparan-VT1 [Cleaved into: Mastoparan-VT2]		Vespa tropica (Greater banded hornet) (Sphex tropica)	60
+P0DRA0	reviewed	VCP1_VESTR	Vespid chemotactic peptide VT1 (VCP-VT1) [Cleaved into: Vespid chemotactic peptide VT2 (VCP-VT2)]		Vespa tropica (Greater banded hornet) (Sphex tropica)	65
+P0DRA1	reviewed	MAST1_VESBI	Mastoparan-VB1 (MP-VB1)		Vespa bicolor (Black shield wasp)	60
+P0DRA3	reviewed	VESP1_VESBI	VESP-VB1		Vespa bicolor (Black shield wasp)	65
+P0DTW2	reviewed	AS48L_BACIA	Pumilarin (Circular bacteriocin) (Enterocin AS-48-like) (Head-to-tail cyclized peptide)	B4107_2383	Bacillus safensis	108
+P10968	reviewed	AGI1_WHEAT	Agglutinin isolectin 1 (Isolectin A) (WGA1)		Triticum aestivum (Wheat)	212
+P10969	reviewed	AGI3_WHEAT	Agglutinin isolectin 3 (WGA3)		Triticum aestivum (Wheat)	186
+P11006	reviewed	MAGA_XENLA	Magainins [Cleaved into: Small acidic peptide 1; Small acidic peptide 2; Small acidic peptide 3; Magainin-1 (Magainin I); Magainin-2 (Magainin II)]	magainins	Xenopus laevis (African clawed frog)	303
+P11828	reviewed	GLYG3_SOYBN	Glycinin G3 (Glycinin 11S G3) (Glycinin A1bB2) (allergen Gly m 6) [Cleaved into: Glycinin A1b subunit (Glycinin A subunit); Glycinin B2 subunit (Glycinin B subunit)]	GY3 Glyma19g34780	Glycine max (Soybean) (Glycine hispida)	481
+P12069	reviewed	LYSC3_PIG	Lysozyme C-3 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)		Sus scrofa (Pig)	148
+P21226	reviewed	CHI2_PEA	Endochitinase A2 (EC 3.2.1.14)	CHI2	Pisum sativum (Garden pea) (Lathyrus oleraceus)	324
+P23132	reviewed	LITH_BOVIN	Lithostathine (Islet cells regeneration factor) (ICRF) (Islet of Langerhans regenerating protein) (REG) (Pancreatic stone protein) (PSP) (Pancreatic thread protein) (PTP) [Cleaved into: Lithostathine A chain; Lithostathine B chain]	PTP	Bos taurus (Bovine)	175
+P24302	reviewed	DRS1_PHYSA	Dermaseptin-S1 (DRS-S1) (Dermaseptin) (DS) (Dermaseptin I) (DS I) (Dermaseptin-1) (DS1)		Phyllomedusa sauvagei (Sauvage's leaf frog)	79
+P25403	reviewed	AMP1_MIRJA	Antimicrobial peptide 1 (MJ-AMP1) (AMP1)	AMP1	Mirabilis jalapa (Garden four-o'clock)	61
+P29023	reviewed	CHIB_MAIZE	Endochitinase B (EC 3.2.1.14) (ChitB) (Seed chitinase B)	CHIB CTB1	Zea mays (Maize)	281
+P32194	reviewed	PG1_PIG	Protegrin-1 (PG-1) (Neutrophil peptide 1)	NPG1	Sus scrofa (Pig)	149
+P32196	reviewed	PG3_PIG	Protegrin-3 (PG-3)	NPG3	Sus scrofa (Pig)	149
+P32412	reviewed	BR1_PELLE	Brevinin-1E		Pelophylax lessonae (Pool frog) (Rana lessonae)	71
+P33046	reviewed	CTHL4_BOVIN	Cathelicidin-4 (Indolicidin)	CATHL4	Bos taurus (Bovine)	144
+P46156	reviewed	GLL1_CHICK	Gallinacin-1 (Gal-1) (Beta-defensin 1)	GAL1	Gallus gallus (Chicken)	65
+P46157	reviewed	GLL1A_CHICK	Gallinacin-1 alpha (Gal-1 alpha) (Antimicrobial peptide CHP2) (Chicken heterophil peptide 2)		Gallus gallus (Chicken)	65
+P46159	reviewed	DEFB1_BOVIN	Beta-defensin 1 (BNBD-1) (BNDB-1)	DEFB1	Bos taurus (Bovine)	38
+P46161	reviewed	DEFB3_BOVIN	Beta-defensin 3 (BNBD-3) (BNDB-3)	DEFB3 BNDB3	Bos taurus (Bovine)	57
+P46162	reviewed	DEFB4_BOVIN	Beta-defensin 4 (BNBD-4) (BNDB-4)	DEFB4 BNBD4	Bos taurus (Bovine)	63
+P46163	reviewed	DEFB5_BOVIN	Beta-defensin 5 (BNBD-5) (BNDB-5)	DEFB5 BNBD5	Bos taurus (Bovine)	64
+P46165	reviewed	DEFB7_BOVIN	Beta-defensin 7 (BNBD-7) (BNDB-7)	DEFB7	Bos taurus (Bovine)	62
+P46167	reviewed	DEFB9_BOVIN	Beta-defensin 9 (BNBD-9) (BNDB-9)	DEFB9 BNDB9	Bos taurus (Bovine)	55
+P46168	reviewed	DFB10_BOVIN	Beta-defensin 10 (BNBD-10) (BNDB-10) (Neutrophil beta-defensin 10)	DEFB10 BNBD10	Bos taurus (Bovine)	62
+P50738	reviewed	PRSW_BACSU	Protease PrsW (EC 3.4.-.-) (Protease responsible for activating sigma-W) (Site-1 protease PrsW) (S1P protease PrsW)	prsW ypdC BSU22940	Bacillus subtilis (strain 168)	218
+P56254	reviewed	KAB1_OLDAF	Kalata-B1	OAK1	Oldenlandia affinis	124
+P56552	reviewed	DEF_PENBA	Defensin-like protein (Brazzein)		Pentadiplandra brazzeana	54
+P60611	reviewed	LYTR_STAA8	Transcriptional regulatory protein LytR	lytR SAOUHSC_00231	Staphylococcus aureus (strain NCTC 8325 / PS 47)	246
+P76473	reviewed	ARNT_ECOLI	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase (EC 2.4.2.43) (4-amino-4-deoxy-L-arabinose lipid A transferase) (Lipid IV(A) 4-amino-4-deoxy-L-arabinosyltransferase) (Polymyxin resistance protein PmrK) (Undecaprenyl phosphate-alpha-L-Ara4N transferase)	arnT pmrK yfbI b2257 JW2251	Escherichia coli (strain K12)	550
+P77690	reviewed	ARNB_ECOLI	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (Polymyxin resistance protein PmrH) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB pmrH yfbE b2253 JW5372	Escherichia coli (strain K12)	385
+P77757	reviewed	ARNC_ECOLI	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Polymyxin resistance protein PmrF) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC pmrF yfbF b2254 JW2248	Escherichia coli (strain K12)	322
+P79875	reviewed	TPG_RANTE	Temporin-1Tg (TG) (Temporin-G)		Rana temporaria (European common frog)	61
+P79876	reviewed	TPH_RANTE	Temporin-1Th (TH) (Temporin-H)		Rana temporaria (European common frog)	58
+P80052	reviewed	CHIT_DIOJA	Acidic endochitinase (EC 3.2.1.14)		Dioscorea japonica (Japanese yam)	250
+P80054	reviewed	PR39_PIG	Antibacterial protein PR-39	PR39	Sus scrofa (Pig)	172
+P80398	reviewed	GGN4_GLARU	Gaegurin-4	GGN4	Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	80
+P81057	reviewed	PEN2A_PENVA	Penaeidin-2a (P2) (Pen-2) (Pen-2a)		Penaeus vannamei (Whiteleg shrimp) (Litopenaeus vannamei)	72
+P81486	reviewed	DRS4_PHYBI	Dermaseptin-B4 (DRS-B4) (Dermaseptin BIV)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	76
+P81565	reviewed	PLX1_PHYBI	Phylloxin-B1 (PLX-B1) (Phylloxin)	PLX-B	Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	64
+P82018	reviewed	CTHL2_CAPHI	Cathelicidin-2 (Bactenecin-5) (Bac5) (ChBac5)	CATHL2 BAC5	Capra hircus (Goat)	176
+P82358	reviewed	GOME_ACAGO	Gomesin		Acanthoscurria gomesiana (Tarantula spider) (Phormictopus pheopygus)	84
+P82389	reviewed	AUR22_RANAE	Aurein-2.2 [Cleaved into: Aurein-2.2.1]		Ranoidea aurea (Green and golden bell frog) (Litoria aurea)	72
+P82390	reviewed	AUR23_RANAE	Aurein-2.3		Ranoidea aurea (Green and golden bell frog) (Litoria aurea)	72
+P83081	reviewed	M2H1_BOMMX	Maximins 2/H1 [Cleaved into: Maximin-2; Maximin-H1 (Maximin-6)]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+P83083	reviewed	M4H31_BOMMX	Maximins 4/H3 type 1 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+P83084	reviewed	M5H41_BOMMX	Maximins 5/H4 type 1 [Cleaved into: Maximin-5; Maximin-H4]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	145
+P83312	reviewed	NDB25_PARSC	Parabutoporin (PP) (Non-disulfide-bridged peptide 2.5) (NDBP-2.5) (Non-disulfide-bridged peptide 3.2) (NDBP-3.2)		Parabuthus schlechteri (Scorpion)	45
+P83313	reviewed	NDB24_OPICA	Opistoporin-1 (OP1) (Non-disulfide-bridged peptide 2.4) (NDBP-2.4) (Non-disulfide-bridged peptide 3.5) (NDBP-3.5) (Opistoporin-3) (OP3)		Opistophthalmus carinatus (African yellow leg scorpion)	82
+P83597	reviewed	EAP2_EUCUL	Antifungal peptide 2 (EAFP2)		Eucommia ulmoides (Hardy rubber tree)	41
+P83619	reviewed	TXC1A_CUPSA	Cupiennin-1a (Cu-1a) (M-ctenitoxin-Cs1a) (M-CNTX-Cs1a)		Cupiennius salei (American wandering spider)	35
+P83637	reviewed	DRS1_PITOR	Dermaseptin-O1 (DRS-O1) (Dermaseptin-01) (DS 01)		Pithecopus oreades (Orange-legged leaf frog) (Phyllomedusa oreades)	29
+P83663	reviewed	RACYE_PELLE	Ranacyclin-E		Pelophylax lessonae (Pool frog) (Rana lessonae)	17
+P83719	reviewed	RACYT_RANTE	Ranacyclin-T	RNCT	Rana temporaria (European common frog)	62
+P83790	reviewed	LED2_PHYAM	Lectin-D2 (PL-D2)		Phytolacca americana (American pokeweed) (Phytolacca decandra)	82
+P83943	reviewed	DEFB1_CHILA	Beta-defensin 1 (BD-1) (Defensin, beta 1) (cBD-1)	DEFB1	Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera)	67
+P84276	reviewed	PA1C_LITPA	Palustrin-1c		Lithobates palustris (Pickerel frog) (Rana palustris)	68
+P84381	reviewed	XT7_XENTR	Antimicrobial peptide 7 (XT-7)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	18
+P84385	reviewed	XT5_XENTR	Antimicrobial peptide 5 (PGLa-like peptide) (XT-5)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	22
+P84386	reviewed	XT6_XENTR	Antimicrobial peptide 6 (XT-6)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	18
+P84567	reviewed	PLS2_PITHY	Phylloseptin-H2 (PLS-H2) (Phylloseptin-2) (PS-2)	psn2 psn-2	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	66
+P84572	reviewed	PLS5_PITHY	Phylloseptin-H5 (PLS-H5) (Phylloseptin-7) (PS-7)	psn7 psn-7	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	66
+P84596	reviewed	DRS3_PITHY	Dermaseptin-H3 (DRS-H3) (DShypo 01) (Dermaseptin DPh-1)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	70
+P84759	reviewed	JELL3_APIME	Jellein-3 (Jelleine-III)		Apis mellifera (Honeybee)	9
+P85053	reviewed	RN2C_LITSE	Ranatuerin-2SEc		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	28
+P85054	reviewed	ES1SB_LITSE	Esculentin-1SEb		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	46
+P85055	reviewed	ES2SE_LITSE	Esculentin-2SE		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	37
+P85056	reviewed	BR1_LITSE	Brevinin-1SE		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	23
+P85057	reviewed	RN2A_LITSE	Ranatuerin-2SEa		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	29
+P85058	reviewed	RN2B_LITSE	Ranatuerin-2SEb		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	28
+P85059	reviewed	ES1SA_LITSE	Esculentin-1SEa		Lithobates sevosus (Dusky gopher frog) (Rana sevosa)	46
+P85070	reviewed	NIG2C_ODOGR	Nigrocin-2GRc (Grahamin-2)		Odorrana grahami (Yunnanfu frog) (Rana grahami)	67
+P85071	reviewed	NIG2A_ODOGR	Nigrocin-2GRa (Grahamin-1)		Odorrana grahami (Yunnanfu frog) (Rana grahami)	66
+P85874	reviewed	MAST_POLMJ	Mastoparan-like PMM (Mastoparan-like peptide PMM2)		Polistes major (Horse paper wasp)	17
+P85882	reviewed	PLS2_PITAZ	Phylloseptin-Az2 (PLS-Az2) (Phylloseptin-7) (PS-7)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	66
+P86921	reviewed	HPS6_PITHY	Hyposin-H6 (HPS-H6) (Hyposin HA-6)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	14
+Q06209	reviewed	CHI4_BRANA	Basic endochitinase CHB4 (EC 3.2.1.14)		Brassica napus (Rape)	268
+Q06283	reviewed	LYSC2_BOVIN	Lysozyme C-2 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)	LYZ2	Bos taurus (Bovine)	147
+Q0VZ38	reviewed	PLS9_PITHY	Phylloseptin-H9 (PLS-H9) (Phylloseptin-11) (PLS-11) (Phylloseptin-9) (PS-9)	psn-11	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	66
+Q0VZ39	reviewed	PLS8_PITHY	Phylloseptin-H8 (PLS-H8) (Phylloseptin-10) (PS-10)	psn-10	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	66
+Q0VZ40	reviewed	PLS7_PITHY	Phylloseptin-H7 (PLS-H7) (Phylloseptin-11) (PS-11) (Phylloseptin-9) (PS-9)	psn-9	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	66
+Q17UY9	reviewed	PLS4_PITAZ	Phylloseptin-Az4 (PLS-Az4) (Phylloseptin-12) (PS-12)	psn12 ppp-12 psn-12	Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	57
+Q1EJP4	reviewed	DMS5_PITAZ	Dermaseptin-H5 (Dermaseptin-like peptide 5) (DMS5)	dpp-H5	Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	68
+Q1EJP5	reviewed	DMS4_PITAZ	Dermaseptin-H4 (Dermaseptin-like peptide 4) (DMS4)	dpp-H4	Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	73
+Q1KLY3	reviewed	CAMP_GORGO	Cathelicidin antimicrobial peptide [Cleaved into: Antibacterial peptide FALL-39 (FALL-39 peptide antibiotic); Antibacterial peptide LL-37]	CAMP	Gorilla gorilla gorilla (Western lowland gorilla)	170
+Q2G0E0	reviewed	GRAR_STAA8	Response regulator protein GraR (Glycopeptide resistance-associated protein R)	graR SAOUHSC_00665	Staphylococcus aureus (strain NCTC 8325 / PS 47)	224
+Q2G2M2	reviewed	MPRF_STAA8	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase) (LPG synthase) (Multiple peptide resistance factor)	mprF SAOUHSC_01359	Staphylococcus aureus (strain NCTC 8325 / PS 47)	840
+Q58T40	reviewed	M3H16_BOMMX	Maximins 3/H16 [Cleaved into: Maximin-3; Maximin-H16]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T41	reviewed	M11H1_BOMMX	Maximins 11/H1 [Cleaved into: Maximin-11; Maximin-H1 (Maximin-6)]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T42	reviewed	M4H34_BOMMX	Maximins 4/H3 type 4 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	139
+Q58T43	reviewed	M3H15_BOMMX	Maximins 3/H15 [Cleaved into: Maximin-3; Maximin-H15]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T44	reviewed	M4H35_BOMMX	Maximins 4/H3 type 5 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	139
+Q58T45	reviewed	M10H3_BOMMX	Maximins 10/H3 [Cleaved into: Maximin-10; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T46	reviewed	M3H14_BOMMX	Maximins 3/H14 [Cleaved into: Maximin-3; Maximin-H14]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T48	reviewed	M3111_BOMMX	Maximins 3/H11 type 1 [Cleaved into: Maximin-3; Maximin-H11]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T49	reviewed	M2H81_BOMMX	Maximins 2/H8 type 1 [Cleaved into: Maximin-2; Maximin-H8]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T52	reviewed	M4H33_BOMMX	Maximins 4/H3 type 3 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T55	reviewed	M9H3_BOMMX	Maximins 9/H3 [Cleaved into: Maximin-9; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T60	reviewed	M5H42_BOMMX	Maximins 5/H4 type 2 [Cleaved into: Maximin-5; Maximin-H4]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	145
+Q58T61	reviewed	M5H43_BOMMX	Maximins 5/H4 type 3 [Cleaved into: Maximin-5; Maximin-H4]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T62	reviewed	M4H36_BOMMX	Maximins 4/H3 type 6 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	139
+Q58T64	reviewed	M3112_BOMMX	Maximins 3/H11 type 2 [Cleaved into: Maximin-3; Maximin-H11]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T65	reviewed	M3113_BOMMX	Maximins 3/H11 type 3 [Cleaved into: Maximin-3; Maximin-H11]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	145
+Q58T68	reviewed	M3H31_BOMMX	Maximins 3/H3 type 1 [Cleaved into: Maximin-3; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	145
+Q58T69	reviewed	M3H91_BOMMX	Maximins 3/H9 type 1 [Cleaved into: Maximin-3; Maximin-H9]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	145
+Q58T70	reviewed	M3H32_BOMMX	Maximins 3/H3 type 2 [Cleaved into: Maximin-3; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	145
+Q58T74	reviewed	M7H1_BOMMX	Maximins 7/H1 [Cleaved into: Maximin-7; Maximin-H1 (Maximin-6)]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T77	reviewed	M4H37_BOMMX	Maximins 4/H3 type 7 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	139
+Q58T79	reviewed	M4H32_BOMMX	Maximins 4/H3 type 2 [Cleaved into: Maximin-4; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T80	reviewed	M3H92_BOMMX	Maximins 3/H9 type 2 [Cleaved into: Maximin-3; Maximin-H9]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T83	reviewed	M3H33_BOMMX	Maximins 3/H3 type 3 [Cleaved into: Maximin-3; Maximin-H3]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T86	reviewed	M2H82_BOMMX	Maximins 2/H8 type 2 [Cleaved into: Maximin-2; Maximin-H8]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T87	reviewed	M1H12_BOMMX	Maximins 1/H12 [Cleaved into: Maximin-1; Maximin-H12]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q5GC91	reviewed	MAXSD_BOMMX	Maximins-S type D [Cleaved into: Maximin-S1; Maximin-S3; Maximin-S5; Maximin-S2; Maximin-S4]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	270
+Q5GC94	reviewed	MAXSA_BOMMX	Maximins-S type A [Cleaved into: Maximin-S1; Maximin-S2; Maximin-S3; Maximin-S4; Maximin-S5]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	235
+Q5I2B2	reviewed	AMP_AMARE	Antimicrobial peptide Ar-AMP		Amaranthus retroflexus (Redroot amaranth) (American pigweed)	89
+Q61096	reviewed	PRTN3_MOUSE	Myeloblastin (EC 3.4.21.76) (Proteinase 3) (PR-3)	Prtn3	Mus musculus (Mouse)	254
+Q67E05	reviewed	BPI_MOUSE	Bactericidal permeability-increasing protein (BPI)	Bpi	Mus musculus (Mouse)	483
+Q6GU94	reviewed	DEFL1_CENLI	Defensin-1 (Cll-dlp)		Centruroides limpidus (Mexican scorpion)	56
+Q6QLR2	reviewed	GLL7_CHICK	Gallinacin-7 (Gal 7) (Beta-defensin 7) (Gallinacin-5) (Gal-5)	GAL7	Gallus gallus (Chicken)	67
+Q7WFT9	reviewed	PAGP_BORBR	Lipid A acyltransferase PagP (EC 2.3.1.251) (Lipid A acylation protein)	pagP BB4181	Bordetella bronchiseptica (strain ATCC BAA-588 / NCTC 13252 / RB50) (Alcaligenes bronchisepticus)	182
+Q7Y1Z1	reviewed	CHI7_ORYSJ	Chitinase 7 (EC 3.2.1.14) (Class I chitinase d) (OsChia1d) (Pathogenesis related (PR)-3 chitinase 7)	Cht7 PC Os05g0399700 LOC_Os05g33150 OSJNBa0035J16.1 P0605G01.16	Oryza sativa subsp. japonica (Rice)	340
+Q800R2	reviewed	CR11_RANCA	Caerin-1.1 [Cleaved into: Caerin-1.1.1; Caerin-1.1.2; Caerin-1.1.4]		Ranoidea caerulea (Green tree frog) (Litoria caerulea)	75
+Q800R4	reviewed	PTC1_PHYBI	Plasticin-B1 (PTC-B1) (Dermaseptin PBN2) (DRP-PBN2) (PBN2 KF)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	70
+Q852L2	reviewed	CUCIN_ORYSJ	Cupincin (EC 3.4.-.-) (52 kDa globulin-like protein) (allergen Ory s NRA)	Os03g0793700 LOC_Os03g57960 OSJNBb0060J21.10	Oryza sativa subsp. japonica (Rice)	470
+Q8JHE1	reviewed	M3H5_BOMMX	Maximins 3/H5 [Cleaved into: Maximin-3; Maximin-H5]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q8NXR5	reviewed	GRAS_STAAW	Sensor protein kinase GraS (EC 2.7.13.3) (Glycopeptide resistance-associated protein S)	graS MW0622	Staphylococcus aureus (strain MW2)	346
+Q8T9R8	reviewed	STMX_STOCA	Stomoxyn		Stomoxys calcitrans (Stable fly) (Conops calcitrans)	67
+Q8TDE3	reviewed	RNAS8_HUMAN	Ribonuclease 8 (RNase 8) (EC 3.1.27.-)	RNASE8	Homo sapiens (Human)	154
+Q8UUG0	reviewed	MORO_MORSA	Moronecidin (Piscidin-1)		Morone saxatilis (Striped bass) (Perca saxatilis)	79
+Q8UUG2	reviewed	MORO_MORCH	Moronecidin (Piscidin-2)		Morone chrysops (White bass) (Perca chrysops)	79
+Q8ZMM8	reviewed	PIPB2_SALTY	Secreted effector protein PipB2 (Type III effector PipB2)	pipB2 STM2780	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	350
+Q90WP7	reviewed	PLR_LITPI	Peptide leucine arginine (pLR)		Lithobates pipiens (Northern leopard frog) (Rana pipiens)	62
+Q91826	reviewed	PYLAB_XENLA	PYLa/PGLa B [Cleaved into: PYLa; PGLa; PGLa-H]	pgla-b pyla	Xenopus laevis (African clawed frog)	64
+Q93K12	reviewed	PAGP_LEGPN	Lipid A acyltransferase PagP (EC 2.3.1.251) (Lipid A acylation protein)	pagP rcp	Legionella pneumophila	186
+Q949H3	reviewed	CHI1_HEVBR	Inactive chitinase-like protein 1 (HbCLP1) (allergen Hev b 11)	CHI-L1 RQ30	Hevea brasiliensis (Para rubber tree) (Siphonia brasiliensis)	314
+Q95WZ4	reviewed	SP15_IXOSC	Salivary protein 15 (Salp15)	Salp15	Ixodes scapularis (Black-legged tick) (Deer tick)	135
+Q99134	reviewed	PYLAA_XENLA	PYLa/PGLa A [Cleaved into: PYLa; PGLa; PGLa-H]	pgla-a pyla	Xenopus laevis (African clawed frog)	64
+Q9AYP9	reviewed	LECC_PHYAM	Lectin-C (PL-C)		Phytolacca americana (American pokeweed) (Phytolacca decandra)	194
+Q9DA01	reviewed	EPPI_MOUSE	Eppin (Epididymal protease inhibitor) (Serine protease inhibitor-like with Kunitz and WAP domains 1)	Eppin Spinlw1	Mus musculus (Mouse)	134
+Q9PT75	reviewed	DRT1_PHYBI	Dermatoxin-B1 (DRT-B1) (Dermatoxin)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	77
+Q9S8M0	reviewed	LECT_SOLTU	Chitin-binding lectin 1 (PL-I)		Solanum tuberosum (Potato)	323
+Q9SAY3	reviewed	CHI7_ORYSI	Chitinase 7 (EC 3.2.1.14) (Class I chitinase d) (OsChia1d) (Pathogenesis related (PR)-3 chitinase 7)	Cht7 PC OsI_19885	Oryza sativa subsp. indica (Rice)	340
+W7LFX0	reviewed	LYSM1_GIBM7	Non-secreted LysM effector LCP1 (LysM domain-containing protein LCP1) (LysM-containing protein 1)	LCP1 FVEG_01584	Gibberella moniliformis (strain M3125 / FGSC 7600) (Maize ear and stalk rot fungus) (Fusarium verticillioides)	733
+A0A0H3FL22	unreviewed	A0A0H3FL22_KLEAK	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase (EC 2.6.1.87) (UDP-(beta-L-threo-pentapyranosyl-4''-ulose diphosphate) aminotransferase) (UDP-Ara4O aminotransferase) (UDP-4-amino-4-deoxy-L-arabinose aminotransferase)	arnB EAE_05700	Klebsiella aerogenes (strain ATCC 13048 / DSM 30053 / CCUG 1429 / JCM 1235 / KCTC 2190 / NBRC 13534 / NCIMB 10102 / NCTC 10006 / CDC 819-56) (Enterobacter aerogenes)	379
+A0A144LVM3	reviewed	STCN2_ECHES	Strongylocin 2 (EeStrongylocin 2)		Echinus esculentus (Sea urchin)	89
+A0A193H2X2	reviewed	CZS3_CRUCA	Cruzioseptin-3 (CZS-3)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	28
+A0A193H327	reviewed	CZS9_CRUCA	Cruzioseptin-9 (CZS-9)	CZS-9	Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	32
+A0A193H329	reviewed	CZS8_CRUCA	Cruzioseptin-8 (CZS-8)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	75
+A0A193H361	reviewed	CZS11_CRUCA	Cruzioseptin-11 (CZS-11)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	75
+A0A193H362	reviewed	CZS2_CRUCA	Cruzioseptin-2 (CZS-2)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	71
+A0A193H365	reviewed	CZS7_CRUCA	Cruzioseptin-7 (CZS-7)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	75
+A0A193H395	reviewed	CZS1_CRUCA	Cruzioseptin-1 (CZS-1)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	70
+A0A193H396	reviewed	CZS6_CRUCA	Cruzioseptin-6 (CZS-6)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	75
+A0A193H397	reviewed	CZS12_CRUCA	Cruzioseptin-12 (CZS-12)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	75
+A0A1S4F550	reviewed	34K1_AEDAE	Salivary protein SG34 (AaSG34) (34-kDa salivary protein)	AAEL003600	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)	312
+A0A1S6EK92	reviewed	MO2_MOROL	Morintide mO2 (8C-hevein-like protein)		Moringa oleifera (Horseradish tree) (Moringa pterygosperma)	79
+A0A286ZI97	unreviewed	A0A286ZI97_PIG	Peptidoglycan-recognition protein	PGLYRP1	Sus scrofa (Pig)	222
+A0A287BLV6	unreviewed	A0A287BLV6_PIG	Bactericidal permeability-increasing protein (BPI)	BPI	Sus scrofa (Pig)	486
+A0A4Y6N1I7	unreviewed	A0A4Y6N1I7_SALET	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC CAC52_07375 D4X88_12110 DQC01_10120 EGU88_00590 EO194_10230 EO253_12800 EUV76_11365 GNC04_002270	Salmonella enterica subsp. enterica serovar Indiana	327
+A0A663DHR7	unreviewed	A0A663DHR7_SALER	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (EC 2.4.2.53) (Undecaprenyl-phosphate Ara4FN transferase) (Ara4FN transferase)	arnC pmrF A7D45_16095 AL463_15935 ASQ14_23645 ATP91_09815 ATQ15_08305 ATR96_07550 AZF90_19445 BH006_03370 CIC26_13560 CQW68_14900 D3346_04750 D3Q81_13430 DT651_10455 EAW95_08415 EBH50_05830 EKD96_13640 F2D26_03380 FJR52_16380 GCH85_08890 NCTC6385_01766 ND68_10730 VH79_14330	Salmonella enterica (Salmonella choleraesuis)	327
+A0SN38	reviewed	BRA_AMOLO	Brevinins-ALa (Amolopin-1a) (Brevinins-1E-AL1)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	70
+A0SN42	reviewed	BRB_AMOLO	Brevinin-ALb (Amolopin-1b) (Brevinin-1E-AL2)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	70
+A0SN45	reviewed	TPA_AMOLO	Temporin-ALa (Amolopin-2a)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	64
+A4L7R7	reviewed	DEF1_PINSY	Defensin-1	Def1	Pinus sylvestris (Scotch pine)	83
+A7WNV3	reviewed	BR1B_LITPA	Brevinin-1PLb		Lithobates palustris (Pickerel frog) (Rana palustris)	70
+A7WNV4	reviewed	BR1C_LITPA	Brevinin-1PLc		Lithobates palustris (Pickerel frog) (Rana palustris)	70
+A7WNV5	reviewed	E2PLA_LITPA	Esculentin-2PLa		Lithobates palustris (Pickerel frog) (Rana palustris)	78
+A7WNV6	reviewed	RN2A_LITPA	Ranatuerin-2PLa		Lithobates palustris (Pickerel frog) (Rana palustris)	71
+A7WNV7	reviewed	TP1A_LITPA	Temporin-1PLa		Lithobates palustris (Pickerel frog) (Rana palustris)	62
+A8B5P0	reviewed	PLEA2_NIDPL	Pleurain-A2		Nidirana pleuraden (Yunnan pond frog) (Babina pleuraden)	69
+A8CZZ1	reviewed	SP152_IXORI	Salivary protein 15 Iric-2 (Salp15 Iric-2) (Salp15-like)		Ixodes ricinus (Common tick) (Acarus ricinus)	136
+A8CZZ8	reviewed	SP153_IXORI	Salivary protein 15 Iric-3 (Salp15 Iric-3) (Salp15-like)		Ixodes ricinus (Common tick) (Acarus ricinus)	124
+B3A0L2	reviewed	AMP19_XENBU	Antimicrobial peptide GP-19		Xenorhabdus budapestensis	19
+B3A0L3	reviewed	AMP20_XENBU	Antimicrobial peptide EP-20		Xenorhabdus budapestensis	20
+B3A0M4	reviewed	BR1A_ODOJI	Brevinin-1JDa		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	24
+B3A0M5	reviewed	BR1B_ODOJI	Brevinin-1JDb		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	24
+B3A0M8	reviewed	ES2JA_ODOJI	Esculentin-2JDa		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	37
+B3A0M9	reviewed	ES2JB_ODOJI	Esculentin-2JDb		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	37
+B3A0N0	reviewed	BR1C_ODOJI	Brevinin-1JDc		Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis)	24
+B3EWQ1	reviewed	AMP1_TAROF	Antimicrobial peptide 1 (ToAMP1)		Taraxacum officinale (Common dandelion) (Leontodon taraxacum)	38
+B3EWQ2	reviewed	AMP2_TAROF	Antimicrobial peptide 2 (ToAMP2)		Taraxacum officinale (Common dandelion) (Leontodon taraxacum)	44
+B3EWQ3	reviewed	AMP3_TAROF	Antimicrobial peptide 3 (ToAMP3)		Taraxacum officinale (Common dandelion) (Leontodon taraxacum)	42
+B3EWQ6	reviewed	AMP1_PAEAL	Antimicrobial protein AN5-1		Paenibacillus alvei (Bacillus alvei)	12
+B3KYH5	reviewed	TPB_PELSA	Temporin-SHb (Temporin-1Sb) (Temp-1Sb)		Pelophylax saharicus (Sahara frog) (Rana saharica)	50
+B5A9S9	reviewed	D1CYA_RANDY	Dybowskin-1CDYa		Rana dybowskii (Dybovsky's frog) (Korean brown frog)	59
+B6CPR5	reviewed	BR1A_LITPA	Brevinin-1PLa		Lithobates palustris (Pickerel frog) (Rana palustris)	44
+B6TT00	unreviewed	B6TT00_MAIZE	chitinase (EC 3.2.1.14)	LOC100284387 ZEAMMB73_Zm00001d017152	Zea mays (Maize)	271
+C0HJU5	reviewed	AMP3_STEME	Antimicrobial peptide 3 (SmAMP3)		Stellaria media (Common chickweed) (Alsine media)	35
+C0HJX7	reviewed	DEFI_CALVI	Defensin		Calliphora vicina (Blue blowfly) (Calliphora erythrocephala)	40
+C0HJX8	reviewed	CEC_CALVI	Cecropin		Calliphora vicina (Blue blowfly) (Calliphora erythrocephala)	39
+C0HK45	reviewed	LTX2A_ECTBR	M-ectatotoxin-Eb2a (M-ECTX-Eb2a) (Ponericin-Q42)		Ectatomma brunneum (Ant) (Ectatomma quadridens)	27
+C0HK46	reviewed	LTX2B_ECTBR	M-ectatotoxin-Eb2b (M-ECTX-Eb2b) (Ponericin-Q49)		Ectatomma brunneum (Ant) (Ectatomma quadridens)	24
+C0HK47	reviewed	LTX2C_ECTBR	M-ectatotoxin-Eb2c (M-ECTX-Eb2c) (Ponericin-Q50)		Ectatomma brunneum (Ant) (Ectatomma quadridens)	28
+C0HK84	reviewed	MAGB2_XENBO	Magainin-B2		Xenopus borealis (Kenyan clawed frog)	23
+C0HK87	reviewed	PGLB2_XENBO	Peptide PGLa-B2		Xenopus borealis (Kenyan clawed frog)	21
+C0HK88	reviewed	PGLB1_XENBO	Peptide PGLa-B1		Xenopus borealis (Kenyan clawed frog)	22
+C0HK89	reviewed	CPFB1_XENBO	Caerulein precursor fragment B1 (CPF-B1) [Cleaved into: Caerulein precursor fragment B2 (CPF-B2)]		Xenopus borealis (Kenyan clawed frog)	28
+C0HKP8	reviewed	DMS4_PITNO	Dermaseptin-4		Pithecopus nordestinus (Northeastern Brazilian leaf frog) (Phyllomedusa nordestina)	33
+C0HKP9	reviewed	PLS4_PITNO	Phylloseptin-N4 (PLS-N4) (Phylloseptin-7)		Pithecopus nordestinus (Northeastern Brazilian leaf frog) (Phyllomedusa nordestina)	19
+C0HKQ0	reviewed	PLS3_PITNO	Phylloseptin-N3 (PLS-N3) (Phylloseptin-8) (PS-8)		Pithecopus nordestinus (Northeastern Brazilian leaf frog) (Phyllomedusa nordestina)	19
+C0HKQ1	reviewed	CYPB_EUPCP	Cyanophlyctin-beta		Euphlyctis cyanophlyctis (Skittering frog)	33
+C0HKQ2	reviewed	BR_EUPCP	Brevinin-Eu		Euphlyctis cyanophlyctis (Skittering frog)	24
+C0HL68	reviewed	ES1GA_ODOGR	Esculentin-1GRa		Odorrana grahami (Yunnanfu frog) (Rana grahami)	46
+C0HL69	reviewed	BR2A_ODOGR	Brevinin-2GRa		Odorrana grahami (Yunnanfu frog) (Rana grahami)	33
+C0HL70	reviewed	BR2B_ODOGR	Brevinin-2GRb		Odorrana grahami (Yunnanfu frog) (Rana grahami)	33
+C0HL71	reviewed	BR2C_ODOGR	Brevinin-2GRc		Odorrana grahami (Yunnanfu frog) (Rana grahami)	37
+C0HL72	reviewed	BR1A_ODOGR	Brevinin-1GRa		Odorrana grahami (Yunnanfu frog) (Rana grahami)	24
+C0HLC4	reviewed	DRS1_PHYTB	Dermaseptin-TR1 (DRS-TR1) (Dermaseptin-2.1TR) (Insulin-releasing peptide) (IRP)		Phyllomedusa trinitatis (Trinidad leaf frog)	28
+C0HLN3	reviewed	MO3_MOROL	Morintide mO3 (Morintide hevein-like peptide 3) (Mo-HLP3)		Moringa oleifera (Horseradish tree) (Moringa pterygosperma)	31
+C0HLN5	reviewed	TURA_SYNTU	Turgencin-A		Synoicum turgens (Colonial ascidian)	36
+C0HLV3	reviewed	MO4_MOROL	Morintide mO4 (Morintide hevein-like peptide 4) (Mo-HLP4)		Moringa oleifera (Horseradish tree) (Moringa pterygosperma)	26
+C0HLV4	reviewed	MO5_MOROL	Morintide mO5 (Morintide hevein-like peptide 1) (Mo-HLP1)		Moringa oleifera (Horseradish tree) (Moringa pterygosperma)	27
+C0HLV5	reviewed	MO6_MOROL	Morintide mO6 (Morintide hevein-like peptide 2) (Mo-HLP2)		Moringa oleifera (Horseradish tree) (Moringa pterygosperma)	28
+C0HM23	reviewed	DEF4_NIGSA	Defensin D4 (Ns-D4)		Nigella sativa (Black cumin)	50
+C0HM24	reviewed	NLTP2_NIGSA	Non-specific lipid-transfer protein 2 (NsLTP2)		Nigella sativa (Black cumin)	25
+C5H0C7	reviewed	AMO1_AMOLO	Amolopin-P1		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	62
+C5H0D9	reviewed	TPG_AMOLO	Temporin-ALg (Amolopin-2h)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	64
+C5H0E0	reviewed	TPI_AMOLO	Temporin-ALi (Amolopin-2i)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	61
+C5H0E1	reviewed	TPJ_AMOLO	Temporin-ALj (Amolopin-2k)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	61
+C5H0E2	reviewed	TPK_AMOLO	Temporin-ALk (Amolopin-n1)		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	57
+D0ZV90	reviewed	PHOP_SALT1	Virulence transcriptional regulatory protein PhoP	phoP STM14_1409	Salmonella typhimurium (strain 14028s / SGSC 2262)	224
+E1AWD4	reviewed	BR11_AMOCU	Brevinin-1CG1		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	69
+E1AWD5	reviewed	BR12_AMOCU	Brevinin-1CG2		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	69
+E1AWD6	reviewed	BR21_AMOCU	Brevinin-2CG1		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	74
+E1AWD7	reviewed	TP1_AMOCU	Temporin-CG1		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	60
+E1AWD8	reviewed	TP2_AMOCU	Temporin-CG2		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	60
+E1AXF5	reviewed	BR21_AMOMA	Brevinin-2MT1		Amolops mantzorum (Sichuan torrent frog)	74
+E1AXF6	reviewed	E2MT1_AMOMA	Esculentin-2MT1		Amolops mantzorum (Sichuan torrent frog)	76
+E1B230	reviewed	E2CG1_AMOCU	Esculentin-2CG1		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	76
+E1B231	reviewed	P2CG1_AMOCU	Palustrin-2CG1		Amolops chunganensis (Chungan torrent frog) (Hylorana chunganensis)	72
+E1B240	reviewed	BR11_AMOMA	Brevinin-1MT1		Amolops mantzorum (Sichuan torrent frog)	70
+E1B241	reviewed	BR12_AMOMA	Brevinin-1MT2		Amolops mantzorum (Sichuan torrent frog)	70
+E1B242	reviewed	E2MT2_AMOMA	Esculentin-2MT2		Amolops mantzorum (Sichuan torrent frog)	76
+E1B245	reviewed	J1MT1_AMOMA	Jingdongin-1-MT1		Amolops mantzorum (Sichuan torrent frog)	63
+E1UYU0	reviewed	AMP2_STEME	Antimicrobial peptide 2 (SmAMP2) [Cleaved into: Antimicrobial peptide 2.1a (Sm-AMP-2.1a); Antimicrobial peptide 2.2a (Sm-AMP-2.2a)]		Stellaria media (Common chickweed) (Alsine media)	163
+E4VP07	reviewed	NDB46_MESEU	Venom antimicrobial peptide-6 (MeAMP-like toxin) (Meucin-13) (Non-disulfide bridged protein family 5) (NDBP-5) (Non-disulfide-bridged peptide 4.6) (NDBP-4.6) (VAMP-2)		Mesobuthus eupeus (Lesser Asian scorpion) (Buthus eupeus)	70
+E4VP50	reviewed	NDBW_MESEU	Antimicrobial peptide Meucin-18 (Venom antimicrobial peptide-9)		Mesobuthus eupeus (Lesser Asian scorpion) (Buthus eupeus)	69
+E7EKH1	reviewed	BR11_SYLSP	Brevinin-1SN1		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	71
+E7EKH2	reviewed	BR12_SYLSP	Brevinin-1SN2		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	71
+E7EKH3	reviewed	B2SN1_SYLSP	Brevinin-2SN1		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	75
+E7EKH4	reviewed	B2S22_SYLSP	Brevinin-2SN2		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	75
+E7EKH5	reviewed	B2S21_SYLSP	Brevinin-2SN2		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	75
+E7EKI0	reviewed	E2SN1_SYLSP	Esculentin-2SN1		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	76
+E7EKJ5	reviewed	TP1_SYLSP	Temporin-SN1		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	65
+E7EKJ6	reviewed	TP2_SYLSP	Temporin-SN2		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	61
+E7EKJ7	reviewed	TP3_SYLSP	Temporin-SN3		Sylvirana spinulosa (Fine-spined frog) (Hylarana spinulosa)	61
+F1SD66	unreviewed	F1SD66_PIG	Chromogranin-A	CHGA	Sus scrofa (Pig)	530
+F1T153	reviewed	BR2A_ODOIS	Brevinin-2ISa		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	76
+F1T154	reviewed	BR2B_ODOIS	Brevinin-2ISb		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	76
+F1T155	reviewed	BR2C_ODOIS	Brevinin-2ISc		Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae)	75
+F5ZP95	reviewed	PHOP_SALTU	Virulence transcriptional regulatory protein PhoP	phoP STMUK_1199	Salmonella typhimurium (strain ATCC 68169 / UK-1)	224
+F6K5S6	reviewed	NDBM_OLIMR	Antimicrobial peptide marcin-18		Olivierus martensii (Manchurian scorpion) (Mesobuthus martensii)	78
+G3F828	reviewed	P2AJ2_AMOJI	Palustrin-2AJ2		Amolops jingdongensis (Chinese torrent frog)	71
+H0USY4	reviewed	ATI1C_ALYOB	Alyteserin-1c		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	23
+J7H8J4	reviewed	DMS1_PITNO	Dermaseptin-1		Pithecopus nordestinus (Northeastern Brazilian leaf frog) (Phyllomedusa nordestina)	73
+O18493	reviewed	CLAVC_STYCL	Clavanin-C		Styela clava (Sea squirt)	80
+O18495	reviewed	STYD_STYCL	Styelin-D		Styela clava (Sea squirt)	81
+O22842	reviewed	CHI61_ARATH	Endochitinase At2g43610 (EC 3.2.1.14)	At2g43610 F18O19.28	Arabidopsis thaliana (Mouse-ear cress)	281
+O52326	reviewed	ARND_SALTY	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD pbgP4 pmrJ STM2300	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	299
+P07466	reviewed	DEF6_RABIT	Neutrophil antibiotic peptide NP-5 (Microbicidal peptide NP-5)		Oryctolagus cuniculus (Rabbit)	95
+P07467	reviewed	DEF5_RABIT	Neutrophil antibiotic peptide NP-4 (Microbicidal peptide NP-4)		Oryctolagus cuniculus (Rabbit)	95
+P07743	reviewed	BPIA2_MOUSE	BPI fold-containing family A member 2 (Parotid secretory protein) (PSP)	Bpifa2 Psp	Mus musculus (Mouse)	235
+P0C006	reviewed	PISC3_MORCS	Piscidin-3		Morone chrysops x Morone saxatilis (White bass x Striped bass)	22
+P0C1M1	reviewed	CRBLE_VESMG	Vespid chemotactic peptide 5e (VCP 5e)		Vespa magnifica (Hornet)	13
+P0C1M2	reviewed	CRBLF_VESMG	Vespid chemotactic peptide 5f (VCP 5f)		Vespa magnifica (Hornet)	13
+P0C1M3	reviewed	CRBLG_VESMG	Vespid chemotactic peptide 5g (VCP 5g)		Vespa magnifica (Hornet)	13
+P0C1M4	reviewed	MASTA_VESMG	Mastoparan-like peptide 12a		Vespa magnifica (Hornet)	14
+P0C1M5	reviewed	MASTB_VESMG	Mastoparan-like peptide 12b		Vespa magnifica (Hornet)	13
+P0C2U6	reviewed	LYC1_LYCSI	M-lycotoxin-Ls3a (M-LCTX-Ls3a) (Lycocitin-1)		Lycosa singoriensis (Wolf spider) (Aranea singoriensis)	18
+P0C2U7	reviewed	LYC2_LYCSI	M-lycotoxin-Ls3b (M-LCTX-Ls3b) (Lycocitin-2)		Lycosa singoriensis (Wolf spider) (Aranea singoriensis)	18
+P0C2U8	reviewed	LYC3_LYCSI	M-lycotoxin-Ls2a (M-LCTX-Ls2a) (Lycocitin-3)		Lycosa singoriensis (Wolf spider) (Aranea singoriensis)	26
+P0C2V0	reviewed	LYC40_LYCSI	M-lycotoxin-Ls4a (M-LCTX-Ls4a) (Peptide 2340)		Lycosa singoriensis (Wolf spider) (Aranea singoriensis)	21
+P0C5X5	reviewed	BR2E_RANDY	Brevinin-2DYe (Brevinin-2CDYa)		Rana dybowskii (Dybovsky's frog) (Korean brown frog)	37
+P0C8S7	reviewed	BR1A_ODOHO	Brevinin-1HSa		Odorrana hosii (Hose's rock frog) (Rana hosii)	24
+P0C8S8	reviewed	BR1B_ODOHO	Brevinin-1HSb		Odorrana hosii (Hose's rock frog) (Rana hosii)	24
+P0C8S9	reviewed	BR2A_ODOHO	Brevinin-2HSa		Odorrana hosii (Hose's rock frog) (Rana hosii)	33
+P0C8T0	reviewed	BR2B_ODOHO	Brevinin-2HSb		Odorrana hosii (Hose's rock frog) (Rana hosii)	33
+P0C8T1	reviewed	BR1A_PULPI	Brevinin-1PTa		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	24
+P0C8T2	reviewed	BR1B_PULPI	Brevinin-1PTb		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	24
+P0C8T3	reviewed	BR2A_PULPI	Brevinin-2PTa		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	30
+P0C8T4	reviewed	BR2B_PULPI	Brevinin-2PTb		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	33
+P0C8T5	reviewed	BR2C_PULPI	Brevinin-2PTc		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	33
+P0C8T6	reviewed	BR2D_PULPI	Brevinin-2PTd		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	33
+P0C8T7	reviewed	BR2E_PULPI	Brevinin-2PTe		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	33
+P0C8T8	reviewed	ES1HA_ODOHO	Esculentin-1HSa		Odorrana hosii (Hose's rock frog) (Rana hosii)	46
+P0C8T9	reviewed	ES2HA_ODOHO	Esculentin-2HSa		Odorrana hosii (Hose's rock frog) (Rana hosii)	37
+P0C8U0	reviewed	NIG2A_ODOHO	Nigrocin-2HSa		Odorrana hosii (Hose's rock frog) (Rana hosii)	21
+P0C8U1	reviewed	NIG2B_ODOHO	Nigrocin-2HSb		Odorrana hosii (Hose's rock frog) (Rana hosii)	21
+P0C8U2	reviewed	TPA_PULPI	Temporin-PTa		Pulchrana picturata (Malaysian fire frog) (Hylarana picturata)	13
+P0CH48	reviewed	AMP1_SCOMU	Antimicrobial peptide scolopin-1		Scolopendra mutilans (Chinese red-headed centipede) (Scolopendra subspinipes mutilans)	21
+P0CH49	reviewed	AMP2_SCOMU	Antimicrobial peptide scolopin-2		Scolopendra mutilans (Chinese red-headed centipede) (Scolopendra subspinipes mutilans)	25
+P0CJ25	reviewed	ASCA1_ASCTR	Ascaphin-1		Ascaphus truei (Coastal tailed frog)	23
+P0CJ27	reviewed	ASCA3_ASCTR	Ascaphin-3		Ascaphus truei (Coastal tailed frog)	24
+P0CJ29	reviewed	ASCA5_ASCTR	Ascaphin-5		Ascaphus truei (Coastal tailed frog)	24
+P0CJ31	reviewed	ASCA7_ASCTR	Ascaphin-7		Ascaphus truei (Coastal tailed frog)	24
+P0DJO3	reviewed	NDB48_SCOTI	Amphipathic peptide CT1 (StCT1) (Non-disulfide-bridged peptide 4.8) (NDBP-4.8) (Non-disulfide-bridged peptide 5.16) (NDBP-5.16)		Scorpiops tibetanus (Scorpion)	74
+P0DJO4	reviewed	NDB4F_SCOTI	Amphipathic peptide StCT2 (StCT2) (Non-disulfide-bridged peptide 4.15) (NDBP-4.15) (Non-disulfide-bridged peptide 5.17) (NDBP-5.17)		Scorpiops tibetanus (Scorpion)	69
+P0DKH7	reviewed	AMP1_FAGES	Antimicrobial peptide 1 (Fa-AMP1)		Fagopyrum esculentum (Common buckwheat) (Polygonum fagopyrum)	40
+P0DKH8	reviewed	AMP2_FAGES	Antimicrobial peptide 2 (Fa-AMP2)		Fagopyrum esculentum (Common buckwheat) (Polygonum fagopyrum)	40
+P0DL41	reviewed	NDB32_CENSU	Css54 (Non-disulfide-bridged peptide 3.2) (NDBP-3.2)		Centruroides suffusus (Durango bark scorpion)	25
+P0DMI7	reviewed	NDB31_HETSP	Antimicrobial peptide HsAp1 (HsAp) (Non-disulfide-bridged peptide 3.3) (NDBP-3.3)		Heterometrus spinifer (Asia giant forest scorpion) (Malaysian black scorpion)	74
+P0DQJ9	reviewed	BR1A_LITST	Brevinin-1SPa		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	24
+P0DQK0	reviewed	BR1B_LITST	Brevinin-1SPb		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	20
+P0DQK1	reviewed	BR1C_LITST	Brevinin-1SPc		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	24
+P0DQK2	reviewed	BR1D_LITST	Brevinin-1SPd		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	20
+P0DQK3	reviewed	RN2A_LITST	Ranatuerin-2SPa		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	35
+P0DQK4	reviewed	RN2B_LITST	Ranatuerin-2SPb		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	35
+P0DQK5	reviewed	TP1A_LITST	Temporin-1SPa		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	13
+P0DQK6	reviewed	TP1B_LITST	Temporin-1SPb		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	13
+P0DQK7	reviewed	TP1C_LITST	Temporin-1SPc		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	13
+P0DQK8	reviewed	BR2RP_LITST	Brevinin-2-related peptide		Lithobates septentrionalis (Mink frog) (Rana septentrionalis)	21
+P0DQK9	reviewed	MDS1_AGALE	Medusin-L1 (MDS-L1) (Phylloseptin-L1) (PLS-L1)		Agalychnis lemur (Lemur leaf frog) (Hylomantis lemur)	18
+P0DQW2	reviewed	ATI1A_ALYOB	Alyteserin-1a		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	23
+P0DQW3	reviewed	ATI1B_ALYOB	Alyteserin-1b		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	23
+P0DQW4	reviewed	ATI1D_ALYOB	Alyteserin-1d		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	23
+P0DQW5	reviewed	ATI2A_ALYOB	Alyteserin-2a		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	16
+P0DQW6	reviewed	ATI2B_ALYOB	Alyteserin-2b		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	17
+P0DQW7	reviewed	ATI2C_ALYOB	Alyteserin-2c		Alytes obstetricans (Common midwife toad) (Bufo obstetricans)	17
+P0DQZ5	reviewed	MAST3_VESTR	Mastoparan-VT3		Vespa tropica (Greater banded hornet) (Sphex tropica)	60
+P0DQZ6	reviewed	MAST4_VESTR	Mastoparan-VT4		Vespa tropica (Greater banded hornet) (Sphex tropica)	60
+P0DQZ8	reviewed	MAST6_VESTR	Mastoparan-VT6		Vespa tropica (Greater banded hornet) (Sphex tropica)	60
+P0DRA5	reviewed	MASTA_POLDR	Mastoparan PDD-A		Polistes dorsalis (Paper wasp)	14
+P0DRA6	reviewed	MASTB_POLDR	Mastoparan PDD-B		Polistes dorsalis (Paper wasp)	14
+P0DRA7	reviewed	MAST_MISPH	Mastoparan MP		Mischocyttarus phthisicus (Paper wasp) (Vespa phthisica)	14
+P0DRH3	reviewed	NDBT1_MESPU	Antimicrobial peptide VpCT1		Mesomexovis punctatus (Scorpion) (Vaejovis punctatus)	70
+P0DRH4	reviewed	NDBT2_MESPU	Antimicrobial peptide VpCT2		Mesomexovis punctatus (Scorpion) (Vaejovis punctatus)	71
+P0DRH5	reviewed	NDBT3_MESPU	Antimicrobial peptide VpCT3		Mesomexovis punctatus (Scorpion) (Vaejovis punctatus)	68
+P0DRH6	reviewed	NDBT4_MESPU	Antimicrobial peptide VpCT4		Mesomexovis punctatus (Scorpion) (Vaejovis punctatus)	71
+P0DTU1	reviewed	TPH_AMOLO	Temporin-ALh		Amolops loloensis (Lolokou Sucker Frog) (Staurois loloensis)	64
+P0DY16	reviewed	NDB34_SCOPA	Antimicrobial peptide Smp24		Scorpio palmatus (Israeli golden scorpion) (Scorpio maurus palmatus)	76
+P14214	reviewed	TAC2_TACTR	Tachyplesin-2 (Tachyplesin II)		Tachypleus tridentatus (Japanese horseshoe crab)	77
+P14215	reviewed	PPM1_LIMPO	Polyphemusin-1 (Polyphemusin I)		Limulus polyphemus (Atlantic horseshoe crab)	18
+P14216	reviewed	PPM2_LIMPO	Polyphemusin-2 (Polyphemusin II)		Limulus polyphemus (Atlantic horseshoe crab)	18
+P15312	reviewed	AGI_HORVU	Root-specific lectin		Hordeum vulgare (Barley)	212
+P15590	reviewed	GLB1_MAIZE	Globulin-1 S allele (GLB1-S) (7S-like)	GLB1	Zea mays (Maize)	573
+P25404	reviewed	AMP2_MIRJA	Antimicrobial peptide 2 (MJ-AMP2) (AMP2)	AMP2	Mirabilis jalapa (Garden four-o'clock)	63
+P27275	reviewed	AMP_AMACA	Antimicrobial peptide 2 (AMP2) [Cleaved into: Antimicrobial peptide 1 (AMP1)]		Amaranthus caudatus (Love-lies-bleeding) (Inca-wheat)	86
+P32195	reviewed	PG2_PIG	Protegrin-2 (PG-2)	NPG2	Sus scrofa (Pig)	147
+P32414	reviewed	ES1_PELLE	Esculentin-1		Pelophylax lessonae (Pool frog) (Rana lessonae)	46
+P40835	reviewed	BR1A_PELLE	Brevinin-1Ea		Pelophylax lessonae (Pool frog) (Rana lessonae)	24
+P40836	reviewed	BR1B_PELLE	Brevinin-1Eb		Pelophylax lessonae (Pool frog) (Rana lessonae)	23
+P40837	reviewed	BR2A_PELLE	Brevinin-2Ea		Pelophylax lessonae (Pool frog) (Rana lessonae)	33
+P40838	reviewed	BR2B_PELLE	Brevinin-2Eb		Pelophylax lessonae (Pool frog) (Rana lessonae)	33
+P40840	reviewed	BR2D_PELLE	Brevinin-2Ed		Pelophylax lessonae (Pool frog) (Rana lessonae)	29
+P40841	reviewed	BR2E_PELLE	Brevinin-2Ee		Pelophylax lessonae (Pool frog) (Rana lessonae)	29
+P40843	reviewed	ES1A_PELLE	Esculentin-1A		Pelophylax lessonae (Pool frog) (Rana lessonae)	46
+P40845	reviewed	ES2A_PELLE	Esculentin-2A		Pelophylax lessonae (Pool frog) (Rana lessonae)	37
+P40846	reviewed	ES2B_PELLE	Esculentin-2B		Pelophylax lessonae (Pool frog) (Rana lessonae)	37
+P46160	reviewed	DEFB2_BOVIN	Beta-defensin 2 (BNBD-2) (BNDB-2)	DEFB2	Bos taurus (Bovine)	40
+P46164	reviewed	DEFB6_BOVIN	Beta-defensin 6 (BNBD-6) (BNDB-6)	DEFB6	Bos taurus (Bovine)	42
+P46166	reviewed	DEFB8_BOVIN	Beta-defensin 8 (BNBD-8) (BNDB-8)	DEFB8	Bos taurus (Bovine)	38
+P46169	reviewed	DFB11_BOVIN	Beta-defensin 11 (BNBD-11) (BNDB-11) (Neutrophil beta-defensin 11)	DEFB11 BNBD11	Bos taurus (Bovine)	60
+P46170	reviewed	DFB12_BOVIN	Beta-defensin 12 (BNBD-12) (BNDB-12)	DEFB12	Bos taurus (Bovine)	38
+P46171	reviewed	DFB13_BOVIN	Beta-defensin 13 (BNBD-13) (BNDB-13)	DEFB13	Bos taurus (Bovine)	42
+P49928	reviewed	SC51_SHEEP	Cathelin-related peptide SC5 (Antibacterial peptide SMAP-29) (Myeloid antibacterial peptide MAP-29)		Ovis aries (Sheep)	160
+P54229	reviewed	CTHL5_BOVIN	Cathelicidin-5 (Antibacterial peptide BMAP-28) (Myeloid antibacterial peptide 28)	CATHL5 BMAP28	Bos taurus (Bovine)	159
+P56684	reviewed	ANDT_ANDAU	Androctonin		Androctonus australis (Sahara scorpion)	25
+P56871	reviewed	CIRA_CHAPA	Circulin-A (CIRA)		Chassalia parviflora	30
+P56872	reviewed	CYLA_PSYLO	Cyclopsychotride-A (CPT)		Psychotria longipes	31
+P56879	reviewed	CIRB_CHAPA	Circulin-B (CIRB)		Chassalia parviflora	31
+P56918	reviewed	TPC_RANTE	Temporin-1Tc (TC) (Temporin-C)		Rana temporaria (European common frog)	13
+P56919	reviewed	TPD_RANTE	Temporin-1Td (TD) (Temporin-D)		Rana temporaria (European common frog)	13
+P56920	reviewed	TPE_RANTE	Temporin-1Te (TE) (Temporin-E)		Rana temporaria (European common frog)	13
+P56921	reviewed	TPF_RANTE	Temporin-1Tf (TF) (Temporin-F)		Rana temporaria (European common frog)	13
+P56923	reviewed	TPK_RANTE	Temporin-1Tk (TK) (Temporin-K)		Rana temporaria (European common frog)	10
+P60609	reviewed	LYTR_STAAM	Transcriptional regulatory protein LytR (Sensory transduction protein LytR)	lytR SAV0261	Staphylococcus aureus (strain Mu50 / ATCC 700699)	246
+P60612	reviewed	LYTS_STAAM	Sensor histidine kinase/phosphatase LytS (EC 2.7.13.3) (EC 3.1.3.-) (Autolysin sensor kinase)	lytS SAV0260	Staphylococcus aureus (strain Mu50 / ATCC 700699)	584
+P61508	reviewed	LYT2_HOGCA	M-lycotoxin-Hc2a (M-LCTX-Hc2a) (Lycotoxin II) (Lycotoxin-2)		Hogna carolinensis (Carolina wolf spider) (Lycosa carolinensis)	27
+P76472	reviewed	ARND_ECOLI	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD (EC 3.5.1.n3)	arnD pmrJ yfbH b2256 JW2250	Escherichia coli (strain K12)	296
+P80279	reviewed	DRS3_PHYSA	Dermaseptin-S3 (DRS-S3) (Dermaseptin III) (DS III) (Dermaseptin-3) (DS3)		Phyllomedusa sauvagei (Sauvage's leaf frog)	30
+P80280	reviewed	DRS4_PHYSA	Dermaseptin-S4 (DRS-S4) (Dermaseptin IV) (DS IV) (Dermaseptin-4) (DS4)		Phyllomedusa sauvagei (Sauvage's leaf frog)	27
+P80282	reviewed	DRS1_PHYBI	Dermaseptin-B1 (DRS-B1) (Dermaseptin BI)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	78
+P80391	reviewed	AMP1_MELGA	Antimicrobial peptide THP1 (Turkey heterophil peptide 1)		Meleagris gallopavo (Wild turkey)	65
+P80392	reviewed	AMP2_MELGA	Antimicrobial peptide THP2 (Turkey heterophil peptide 2)		Meleagris gallopavo (Wild turkey)	64
+P80395	reviewed	GGN1_GLARU	Gaegurin-1	GGN1	Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	33
+P80396	reviewed	GGN2_GLARU	Gaegurin-2	GGN2	Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	33
+P80397	reviewed	GGN3_GLARU	Gaegurin-3	GGN3	Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	33
+P80399	reviewed	GGN5_GLARU	Gaegurin-5	GGN5	Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	65
+P80400	reviewed	GGN6_GLARU	Gaegurin-6	GGN6	Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	24
+P80710	reviewed	CLAVA_STYCL	Clavanin-A		Styela clava (Sea squirt)	80
+P80713	reviewed	CLAVD_STYCL	Clavanin-D		Styela clava (Sea squirt)	80
+P81056	reviewed	PEN1_PENVA	Penaeidin-1 (P1) (Pen-1)		Penaeus vannamei (Whiteleg shrimp) (Litopenaeus vannamei)	50
+P81059	reviewed	PEN3B_PENVA	Penaeidin-3b (P3-b) (Pen-3b)		Penaeus vannamei (Whiteleg shrimp) (Litopenaeus vannamei)	82
+P81060	reviewed	PEN3C_PENVA	Penaeidin-3c (P3-c) (Pen-3c)		Penaeus vannamei (Whiteleg shrimp) (Litopenaeus vannamei)	81
+P81485	reviewed	DRS3_PHYBI	Dermaseptin-B3 (DRS-B3) (Dermaseptin BIII)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	74
+P81487	reviewed	DRS5_PHYBI	Dermaseptin-B5 (DRS-B5) (Dermaseptin-BV)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	26
+P81490	reviewed	DRS6_PHYBI	Dermaseptin-B6 (DRS-B6) (Dermaseptin BVI)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	72
+P81591	reviewed	AMP_IPONI	Antimicrobial protein PN-AMP1 [Cleaved into: Antimicrobial protein PN-AMP2]		Ipomoea nil (Japanese morning glory) (Pharbitis nil)	41
+P81612	reviewed	MYTA_MYTED	Mytilin-A		Mytilus edulis (Blue mussel)	34
+P81613	reviewed	MYTB_MYTED	Mytilin-B		Mytilus edulis (Blue mussel)	34
+P81709	reviewed	LYSC2_CANLF	Lysozyme C, spleen isozyme (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)		Canis lupus familiaris (Dog) (Canis familiaris)	130
+P81859	reviewed	CBLE_VISAL	Chitin-binding lectin		Viscum album (European mistletoe)	49
+P81941	reviewed	PLE1_PSEAM	Pleurocidin	ple1	Pseudopleuronectes americanus (Winter flounder) (Pleuronectes americanus)	68
+P82233	reviewed	BR1A_RANTE	Brevinin-1Ta		Rana temporaria (European common frog)	17
+P82286	reviewed	BMNL2_BOMVA	Bombinin-like peptides 2 [Cleaved into: Acidic peptide 2-1; Bombinin-like peptide 2 (BLP-2); Octapeptide 2; Acidic peptide 2-2; Bombinin-H2]		Bombina variegata (Yellow-bellied toad)	137
+P82357	reviewed	SPING_PSEUS	Spinigerin [Cleaved into: Spinigerin N-3; Spinigerin C-4]		Pseudacanthotermes spiniger	25
+P82651	reviewed	TIN1_HOPTI	Tigerinin-1		Hoplobatrachus tigerinus (Indian bull frog) (Rana tigerina)	11
+P82652	reviewed	TIN2_HOPTI	Tigerinin-2		Hoplobatrachus tigerinus (Indian bull frog) (Rana tigerina)	12
+P82653	reviewed	TIN3_HOPTI	Tigerinin-3		Hoplobatrachus tigerinus (Indian bull frog) (Rana tigerina)	12
+P82654	reviewed	TIN4_HOPTI	Tigerinin-4		Hoplobatrachus tigerinus (Indian bull frog) (Rana tigerina)	11
+P82740	reviewed	RN1_RANTE	Ranatuerin-1T (Brevinin-2T)		Rana temporaria (European common frog)	33
+P82875	reviewed	RN1_LITCL	Ranatuerin-1C		Lithobates clamitans (Green frog) (Rana clamitans)	25
+P82876	reviewed	RLCA_LITCL	Ranalexin-1Ca		Lithobates clamitans (Green frog) (Rana clamitans)	20
+P82877	reviewed	RLCB_LITCL	Ranalexin-1Cb		Lithobates clamitans (Green frog) (Rana clamitans)	20
+P82878	reviewed	RN2A_LITCL	Ranatuerin-2Ca		Lithobates clamitans (Green frog) (Rana clamitans)	31
+P82879	reviewed	RN2B_LITCL	Ranatuerin-2Cb		Lithobates clamitans (Green frog) (Rana clamitans)	27
+P82880	reviewed	TP1A_LITCL	Temporin-1Ca		Lithobates clamitans (Green frog) (Rana clamitans)	13
+P82881	reviewed	TP1B_LITCL	Temporin-1Cb		Lithobates clamitans (Green frog) (Rana clamitans)	13
+P82882	reviewed	TP1C_LITCL	Temporin-1Cc		Lithobates clamitans (Green frog) (Rana clamitans)	13
+P82883	reviewed	TP1D_LITCL	Temporin-1Cd		Lithobates clamitans (Green frog) (Rana clamitans)	13
+P82884	reviewed	TP1E_LITCL	Temporin-1Ce		Lithobates clamitans (Green frog) (Rana clamitans)	13
+P83239	reviewed	NDB23_PANIM	Pandinin-1 (Pin1) (Non-disulfide-bridged peptide 2.3) (NDBP-2.3) (Non-disulfide-bridged peptide 3.4) (NDBP-3.4)		Pandinus imperator (Emperor scorpion)	44
+P83240	reviewed	NDB31_PANIM	Pandinin-2 (Pin2) (Non-disulfide-bridged peptide 3.1) (NDBP-3.1) (Non-disulfide-bridged peptide 4.1) (NDBP-4.1)		Pandinus imperator (Emperor scorpion)	24
+P83305	reviewed	JAP1_RANJA	Japonicin-1		Rana japonica (Japanese reddish frog)	14
+P83306	reviewed	JAP2_RANJA	Japonicin-2		Rana japonica (Japanese reddish frog)	21
+P83307	reviewed	TP1A_RANJA	Temporin-1Ja		Rana japonica (Japanese reddish frog)	13
+P83596	reviewed	EAP1_EUCUL	Antifungal peptide 1 (EAFP1)		Eucommia ulmoides (Hardy rubber tree)	41
+P83620	reviewed	TXC1B_CUPSA	Cupiennin-1b (Cu-1b) (M-ctenitoxin-Cs1b) (M-CNTX-Cs1b)		Cupiennius salei (American wandering spider)	35
+P83621	reviewed	TXC1C_CUPSA	Cupiennin-1c (Cu-1c) (M-ctenitoxin-Cs1c) (M-CNTX-Cs1c)		Cupiennius salei (American wandering spider)	35
+P83622	reviewed	TXC1D_CUPSA	Cupiennin-1d (Cu-1d) (M-ctenitoxin-Cs1d) (M-CNTX-Cs1d)		Cupiennius salei (American wandering spider)	35
+P83638	reviewed	DRS1_PHYDS	Dermaseptin-DI1 (DRS-DI1) (Dermadistinctin-K) (DD-K)		Phyllomedusa distincta (Monkey frog)	33
+P83639	reviewed	DRS2_PHYDS	Dermaseptin-DI2 (DRS-DI2) (Dermadistinctin-L) (DD L)		Phyllomedusa distincta (Monkey frog)	28
+P83641	reviewed	DRS4_PHYDS	Dermaseptin-DI4 (DRS-DI4) (Dermadistinctin-Q1) (DD Q1)		Phyllomedusa distincta (Monkey frog)	30
+P83866	reviewed	OCE2_LEPOE	Ocellatin-2		Leptodactylus ocellatus (Argus frog) (Leptodactylus macrosternum)	21
+P83867	reviewed	OCE3_LEPOE	Ocellatin-3		Leptodactylus ocellatus (Argus frog) (Leptodactylus macrosternum)	21
+P83878	reviewed	LICA_BACIU	Subpeptin JM4-A		Bacillus subtilis	12
+P83879	reviewed	LICB_BACIU	Subpeptin JM4-B		Bacillus subtilis	12
+P83951	reviewed	OCE1_LEPOE	Ocellatin-1		Leptodactylus ocellatus (Argus frog) (Leptodactylus macrosternum)	25
+P84262	reviewed	PA3B_LITPA	Palustrin-3b		Lithobates palustris (Pickerel frog) (Rana palustris)	48
+P84274	reviewed	PA1A_LITPA	Palustrin-1a		Lithobates palustris (Pickerel frog) (Rana palustris)	28
+P84275	reviewed	PA1B_LITPA	Palustrin-1b		Lithobates palustris (Pickerel frog) (Rana palustris)	28
+P84277	reviewed	PA1D_LITPA	Palustrin-1d		Lithobates palustris (Pickerel frog) (Rana palustris)	27
+P84278	reviewed	PA2A_LITPA	Palustrin-2a		Lithobates palustris (Pickerel frog) (Rana palustris)	31
+P84279	reviewed	RN2B_LITPA	Ranatuerin-2PL (Palustrin-2b)		Lithobates palustris (Pickerel frog) (Rana palustris)	31
+P84280	reviewed	PA2C_LITPA	Palustrin-2c		Lithobates palustris (Pickerel frog) (Rana palustris)	31
+P84281	reviewed	PA3A_LITPA	Palustrin-3a		Lithobates palustris (Pickerel frog) (Rana palustris)	48
+P84282	reviewed	LECA_PHYAM	Lectin-A (PL-A)		Phytolacca americana (American pokeweed) (Phytolacca decandra)	64
+P84382	reviewed	XT2_XENTR	Antimicrobial peptide 2 (XT-2)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	25
+P84383	reviewed	XT3_XENTR	Antimicrobial peptide 3 (Levitide-like peptide) (XT-3)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	25
+P84384	reviewed	XT4_XENTR	Antimicrobial peptide 4 (XT-4)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	22
+P84387	reviewed	XT1_XENTR	Antimicrobial peptide 1 (XT-1)		Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	27
+P84566	reviewed	PLS1_PITHY	Phylloseptin-H1 (PLS-H1) (Phylloseptin-1) (PS-1)	psn1 psn-1	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	19
+P84568	reviewed	PLS3_PITHY	Phyllospetin-H3 (PLS-H3) (Phylloseptin-3) (PS-3)	psn3 psn-3	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	19
+P84569	reviewed	PLS1_PITOR	Phylloseptin-O1 (PLS-O1) (Phylloseptin-4) (PS-4)	psn4 psn-4	Pithecopus oreades (Orange-legged leaf frog) (Phyllomedusa oreades)	20
+P84570	reviewed	PLS2_PITOR	Phylloseptin-O2 (PLS-O2) (Phylloseptin-5) (PS-5)	psn5 psn-5	Pithecopus oreades (Orange-legged leaf frog) (Phyllomedusa oreades)	19
+P84571	reviewed	PLS4_PITHY	Phyllospetin-H4 (PLS-H4) (Phylloseptin-6) (PS-6)	psn6 psn-6	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	17
+P84597	reviewed	DRS1_PITHY	Dermaseptin-H1 (DRS-H1) (DShypo 02) (Dermaseptin-H4) (DRS-H4)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	76
+P84599	reviewed	DRS6_PITHY	Dermaseptin-H6 (DRS-H6) (DShypo 04)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	33
+P84600	reviewed	DRS7_PITHY	Dermaseptin-H7 (DRS-H7) (DShypo 05)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	29
+P84601	reviewed	DRS8_PITHY	Dermaseptin-H8 (DRS-H8) (DShypo 06)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	33
+P84839	reviewed	BR1E_PELSA	Brevinin-1E		Pelophylax saharicus (Sahara frog) (Rana saharica)	24
+P84840	reviewed	ES1_PELSA	Esculentin-1		Pelophylax saharicus (Sahara frog) (Rana saharica)	46
+P84841	reviewed	ES1B_PELSA	Esculentin-1B		Pelophylax saharicus (Sahara frog) (Rana saharica)	46
+P84842	reviewed	BR2C_PELSA	Brevinin-2Ec		Pelophylax saharicus (Sahara frog) (Rana saharica)	34
+P84858	reviewed	TPH_SYLGU	Temporin-GH (AMP-5)		Sylvirana guentheri (Gunther's frog) (Rana guentheri)	13
+P84860	reviewed	BR2A_SYLGU	Brevinin-2GHa (AMP-1)		Sylvirana guentheri (Gunther's frog) (Rana guentheri)	34
+P84927	reviewed	DRS7_PHYTS	Dermaseptin-TA1 (DRS-TA1) (Dermaseptin-7) (DStar 07)		Phyllomedusa tarsius (Brownbelly leaf frog) (Phyllomedusa tarsia)	31
+P84936	reviewed	DMS6_PITAZ	Dermaseptin-H6 (Dermaseptin-H1) (Dermaseptin-like peptide 1) (DMS1) (Dermaseptin-like peptide 6) (DMS6)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	29
+P84938	reviewed	PLS5_PITAZ	Phylloseptin-Az5 (PLS-Az5) (Phylloseptin-13) (PS-13)	psn13 psn-13	Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	19
+P84939	reviewed	PLS6_PITAZ	Phylloseptin-Az6 (PLS-Az6) (Phylloseptin-14) (PS-14)	psn14 psn-14	Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	19
+P84954	reviewed	HPS1_PITAZ	Hyposin-H1 (HPS-H1) (Hyposin-1) (Hyposin-HA1)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	11
+P84955	reviewed	HPS2_PITAZ	Hyposin-H2 (HPS-H2) (Hyposin-2) (Hyposin-HA2)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	11
+P84956	reviewed	HPS4_PITAZ	Hyposin-H4 (HPS-H4) (Hyposin-3) (Hyposin-HA3)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	12
+P84957	reviewed	HPS5_PITAZ	Hyposin-H5 (HPS-H5) (Hyposin-4) (Hyposin-HA4)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	14
+P85881	reviewed	PLS1_PITAZ	Phylloseptin-Az1 (PLS-Az1) (Phylloseptin-2) (PS-2)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	63
+P85883	reviewed	PLS3_PITAZ	Phylloseptin-Az3 (PLS-Az3) (Phylloseptin-8) (PS-8)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	66
+P86415	reviewed	HALCY_HALPP	Halocyntin		Halocynthia papillosa (Red sea-squirt)	26
+P86473	reviewed	CHIT_ACTCC	Endochitinase (EC 3.2.1.14)	CEY00_Acc04863	Actinidia chinensis var. chinensis (Chinese soft-hair kiwi)	322
+P86521	reviewed	AMP_LYMAR	Antimicrobial peptide 1b (LAMP-1b) [Cleaved into: Antimicrobial peptide 1a (LAMP-1a)]		Leymus arenarius (Lyme grass) (Elymus arenarius)	44
+P86527	reviewed	NLTP1_NIGSA	Non-specific lipid-transfer protein 1 (LTP 1)		Nigella sativa (Black cumin)	35
+P86705	reviewed	AMP1_COCNU	Antimicrobial peptide 1 (Cn-AMP1)		Cocos nucifera (Coconut palm)	9
+P86706	reviewed	AMP2_COCNU	Antimicrobial peptide 2 (Cn-AMP2)		Cocos nucifera (Coconut palm)	11
+P86707	reviewed	AMP3_COCNU	Antimicrobial peptide 3 (Cn-AMP3)		Cocos nucifera (Coconut palm)	8
+P86915	reviewed	PSB_PSEBL	Pseudin-B		Pseudis bolbodactyla (Frog)	23
+P86941	reviewed	DRS1_AGASP	Dermaseptin-SP1 (DRS-SP1) (Dermaseptin-LI1) (DRS-LI1) (Insulinotropic peptide 1) (FSIP)		Agalychnis spurrelli (Gliding leaf frog) (Agalychnis litodryas)	28
+Q09022	reviewed	XEN1_XENLA	Xenoxin-1	xenoxin-1	Xenopus laevis (African clawed frog)	84
+Q0JF21	reviewed	AGI_ORYSJ	Lectin (Agglutinin) [Cleaved into: Lectin 10 kDa peptide; Lectin 8 kDa peptide]	Os04g0173800 LOC_Os04g09390 OSJNBb0015C06.8	Oryza sativa subsp. japonica (Rice)	227
+Q0VZ41	reviewed	PLS6_PITHY	Phylloseptin-H6 (PLS-H6) (Phylloseptin-8) (PS-8)	psn-8	Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	66
+Q1JS87	reviewed	ES1VB_ODOVE	Esculentin-1Vb (esc1Vb) (Esculentin 1VEb)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	84
+Q1JS88	reviewed	PA3B_ODOVE	Palustrin-3b (pal3b)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	86
+Q1JS89	reviewed	ES2VB_ODOVE	Esculentin-2Vb (esc2Vb) (Esculentin 2VEb)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	78
+Q1JS90	reviewed	RN2B_ODOVE	Ranatuerin-2Vb (ranat2Vb) (2VEb)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	67
+Q1JS91	reviewed	TP1_ODOVE	Temporin-1V (temp1v) (1VE)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	62
+Q1JS92	reviewed	RN2A_ODOVE	Ranatuerin-2Va (ranat2Va) (2VEa)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	71
+Q1JS93	reviewed	BR1B_ODOVE	Brevinin-1Vb (brevIVB) (1VEb)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	70
+Q1JS94	reviewed	PA1C_ODOVE	Palustrin-1c (pal1c)		Odorrana versabilis (Chinese bamboo leaf odorous frog) (Rana versabilis)	68
+Q2FZW4	reviewed	DLTC_STAA8	D-alanyl carrier protein (DCP) (D-alanine--poly(phosphoribitol) ligase subunit 2)	dltC SAOUHSC_00871	Staphylococcus aureus (strain NCTC 8325 / PS 47)	78
+Q2G0D9	reviewed	GRAS_STAA8	Sensor histidine kinase GraS (EC 2.7.13.3) (Glycopeptide resistance-associated protein S)	graS SAOUHSC_00666	Staphylococcus aureus (strain NCTC 8325 / PS 47)	346
+Q2IAL6	reviewed	CTHL3_CHICK	Cathelicidin-3 (CATH-3) (Fowlicidin-3)	CATHL3	Gallus gallus (Chicken)	151
+Q3V5J7	unreviewed	Q3V5J7_CAEEL	Phospholipase A2 (EC 3.1.1.4)	CELE_Y69A2AL.2 Y69A2AL.2	Caenorhabditis elegans	157
+Q58T39	reviewed	M1015_BOMMX	Maximins 10/H15 [Cleaved into: Maximin-10; Maximin-H15]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T51	reviewed	M1111_BOMMX	Maximins 11/H11 [Cleaved into: Maximin-11; Maximin-H11]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T56	reviewed	M8H7_BOMMX	Maximins 8/H7 [Cleaved into: Maximin-8; Maximin-H7]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T58	reviewed	M7H13_BOMMX	Maximins 7/H13 [Cleaved into: Maximin-7; Maximin-H13]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T59	reviewed	M6H10_BOMMX	Maximins 6/H10 [Cleaved into: Maximin-6; Maximin-H10]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T72	reviewed	M7H6_BOMMX	Maximins 7/H6 [Cleaved into: Maximin-7; Maximin-H6]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	144
+Q58T93	reviewed	MYH16_BOMMX	Maximins y/H16 [Cleaved into: Maximin-y; Maximin-H16]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	142
+Q58T95	reviewed	MYH11_BOMMX	Maximins y/H11 [Cleaved into: Maximin-y; Maximin-H11]		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	142
+Q5DVA6	reviewed	PLX1_PHYSA	Phylloxin-S1 (PLX-S1) (Phylloxin)	PLX-S	Phyllomedusa sauvagei (Sauvage's leaf frog)	64
+Q5HI08	reviewed	GRAS_STAAC	Sensor histidine kinase GraS (EC 2.7.13.3) (Glycopeptide resistance-associated protein S)	graS SACOL0717	Staphylococcus aureus (strain COL)	346
+Q5HI09	reviewed	GRAR_STAAC	Response regulator protein GraR (Glycopeptide resistance-associated protein R)	graR SACOL0716	Staphylococcus aureus (strain COL)	224
+Q63471	reviewed	BPIA2_RAT	BPI fold-containing family A member 2 (Neonatal submandibular gland protein) (Parotid secretory protein) (PSP)	Bpifa2 Psp	Rattus norvegicus (Rat)	235
+Q6IV20	reviewed	GLL11_CHICK	Gallinacin-11 (Gal-11) (Beta-defensin 11) (Vitelline membrane outer layer protein 2) (Vitelline membrane outer layer protein II) (VMO-II) (VMOII)	GAL11	Gallus gallus (Chicken)	104
+Q75GX9	reviewed	GLB63_ORYSJ	63 kDa globulin-like protein (allergen Ory s GLP63)	Os03g0663800 LOC_Os03g46100 OSJNBa0034D21.12	Oryza sativa subsp. japonica (Rice)	562
+Q7A5R9	reviewed	MPRF_STAAN	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase) (LPG synthase) (Multiple peptide resistance factor)	mprF SA1193	Staphylococcus aureus (strain N315)	840
+Q7A6Z3	reviewed	GRAS_STAAN	Sensor protein kinase GraS (EC 2.7.13.3) (Glycopeptide resistance-associated protein S)	graS SA0615	Staphylococcus aureus (strain N315)	346
+Q7T3K7	reviewed	DRS8_PHYSA	Dermaseptin-S8 (DRS-S8) (Dermaseptin DS VIII)		Phyllomedusa sauvagei (Sauvage's leaf frog)	79
+Q7T3K8	reviewed	DRS7_PHYSA	Dermaseptin-S7 (DRS-S7) (Dermaseptin DS VII)		Phyllomedusa sauvagei (Sauvage's leaf frog)	76
+Q7T3K9	reviewed	DRS6_PHYSA	Dermaseptin-S6 (DRS-S6) (Dermaseptin DS VI)		Phyllomedusa sauvagei (Sauvage's leaf frog)	81
+Q800R3	reviewed	PLS1_PHYBI	Phylloseptin-B1 (PLS-B1) (Dermaseptin PBN1) (DRP-PBN1)		Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	66
+Q800R9	reviewed	CR1B_RANCA	Caerin 1.11		Ranoidea caerulea (Green tree frog) (Litoria caerulea)	75
+Q86LE4	reviewed	DEFI_RHIMP	Defensin		Rhipicephalus microplus (Cattle tick) (Boophilus microplus)	74
+Q8GUD7	reviewed	CHIL_HEVBR	Probable inactive chitinase-like protein LaCIC (Leaf class I chitinase) (LaCIC) (allergen Hev b 11)	LACIC	Hevea brasiliensis (Para rubber tree) (Siphonia brasiliensis)	295
+Q8NFQ5	reviewed	BPIB6_HUMAN	BPI fold-containing family B member 6 (Bactericidal/permeability-increasing protein-like 3)	BPIFB6 BPIL3	Homo sapiens (Human)	453
+Q90ZY0	reviewed	PLE2_PSEAM	Pleurocidin	ple2	Pseudopleuronectes americanus (Winter flounder) (Pleuronectes americanus)	68
+Q932F1	reviewed	GRAR_STAAM	Response regulator protein GraR (Glycopeptide resistance-associated protein R)	graR SAV0659	Staphylococcus aureus (strain Mu50 / ATCC 700699)	224
+Q962A7	reviewed	PEN4D_PENST	Penaeidin-4d (Pen-4d)		Penaeus setiferus (Atlantic white shrimp) (Litopenaeus setiferus)	67
+Q969E1	reviewed	LEAP2_HUMAN	Liver-expressed antimicrobial peptide 2 (LEAP-2)	LEAP2	Homo sapiens (Human)	77
+Q99VW1	reviewed	GRAS_STAAM	Sensor histidine kinase GraS (EC 2.7.13.3) (Glycopeptide resistance-associated protein S)	graS SAV0660	Staphylococcus aureus (strain Mu50 / ATCC 700699)	346
+Q9AVB0	reviewed	LECB_PHYAM	Lectin-B (PL-B)		Phytolacca americana (American pokeweed) (Phytolacca decandra)	361
+Q9HV32	reviewed	PMRA_PSEAE	Response regulator protein PmrA	pmrA PA4776	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	221
+Q9I4F9	reviewed	PHOP_PSEAE	Two-component response regulator PhoP	phoP PA1179	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	225
+Q9SPL4	reviewed	AMP22_MACIN	Vicilin-like antimicrobial peptides 2-2 (MiAMP2) [Cleaved into: Antimicrobial peptide 2a (Antimicrobial peptide Mac i 1) (MiAMP2a); Antimicrobial peptide 2b (MiAMP2b); Antimicrobial peptide 2c-1 (MiAMP2c-1); Antimicrobial peptide 2c-2 (MiAMP2c-2); Antimicrobial peptide 2c-3 (MiAMP2c-3); Antimicrobial peptide 2d (MiAMP2d)]	AMP2-2	Macadamia integrifolia (Macadamia nut)	666
+Q9SQF7	unreviewed	Q9SQF7_BRAJU	chitinase (EC 3.2.1.14)		Brassica juncea (Indian mustard) (Sinapis juncea)	400
+R4JQZ0	reviewed	NDB4K_PANIM	Pantinin-2 (Non-disulfide-bridged peptide 4.21) (NDBP-4.21) (Non-disulfide-bridged peptide 5.22) (NDBP-5.22)		Pandinus imperator (Emperor scorpion)	68
+A0A0R4I979	unreviewed	A0A0R4I979_BRABE	Peptidoglycan recognition protein 3 (EC 3.5.1.28)		Branchiostoma belcheri tsingtauense	236
+A0A193H2U2	reviewed	CZS4_CRUCA	Cruzioseptin-4 (CZS-4)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	28
+A0A193H356	reviewed	CZS5_CRUCA	Cruzioseptin-5 (CZS-5)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	34
+A0A1P8AME8	unreviewed	A0A1P8AME8_ARATH	chitinase (EC 3.2.1.14)	At1g56680 F25P12.88 F25P12_88	Arabidopsis thaliana (Mouse-ear cress)	303
+A0A804M5E1	unreviewed	A0A804M5E1_MAIZE	Cupin type-1 domain-containing protein	LOC542382	Zea mays (Maize)	439
+A0A804ME60	unreviewed	A0A804ME60_MAIZE	chitinase (EC 3.2.1.14)		Zea mays (Maize)	278
+A0A804PDB7	unreviewed	A0A804PDB7_MAIZE	chitinase (EC 3.2.1.14)	LOC100283208	Zea mays (Maize)	282
+A0A804PDW1	unreviewed	A0A804PDW1_MAIZE	chitinase (EC 3.2.1.14)		Zea mays (Maize)	193
+A0A804PV51	unreviewed	A0A804PV51_MAIZE	chitinase (EC 3.2.1.14)		Zea mays (Maize)	379
+A0A804QLA1	unreviewed	A0A804QLA1_MAIZE	chitinase (EC 3.2.1.14)	LOC100284192	Zea mays (Maize)	357
+A0A804UFZ2	unreviewed	A0A804UFZ2_MAIZE	chitinase (EC 3.2.1.14)	LOC103635126	Zea mays (Maize)	268
+A6LE66	unreviewed	A6LE66_PARD8	Aminopeptidase	BDI_2249	Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / CIP 104284 / JCM 5825 / NCTC 11152)	405
+A8I0L8	reviewed	THMAC_HIRME	Theromacin		Hirudo medicinalis (Medicinal leech)	75
+C0HJX9	reviewed	DIP_CALVI	Diptericin		Calliphora vicina (Blue blowfly) (Calliphora erythrocephala)	42
+C0HJY0	reviewed	PRP_CALVI	Proline-rich peptide		Calliphora vicina (Blue blowfly) (Calliphora erythrocephala)	22
+C0HK08	reviewed	CZS10_CRUCA	Cruzioseptin-10 (CZS-10)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	28
+C0HK09	reviewed	CZS13_CRUCA	Cruzioseptin-13 (CZS-13)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	25
+C0HK10	reviewed	CZS14_CRUCA	Cruzioseptin-14 (CZS-14)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	27
+C0HK11	reviewed	CZS15_CRUCA	Cruzioseptin-15 (CZS-15)		Cruziohyla calcarifer (Splendid leaf frog) (Agalychnis calcarifer)	20
+C0HK83	reviewed	MAGB1_XENBO	Magainin-B1		Xenopus borealis (Kenyan clawed frog)	21
+C0HK85	reviewed	XPFB1_XENBO	Xenoposin-precursor fragment B1 (XPF-B1)		Xenopus borealis (Kenyan clawed frog)	24
+C0HK86	reviewed	XPFB2_XENBO	Xenoposin precursor fragment B2 (XPF-B2)		Xenopus borealis (Kenyan clawed frog)	24
+C0HK90	reviewed	CPFB3_XENBO	Caerulein precursor fragment B3 (CPF-B3)		Xenopus borealis (Kenyan clawed frog)	22
+C0HK91	reviewed	CPFB4_XENBO	Caerulein precursor fragment B4 (CPF-B4)		Xenopus borealis (Kenyan clawed frog)	24
+C0HM80	reviewed	NLTP3_NIGSA	Non-specific lipid-transfer protein 3 (NsLTP3)		Nigella sativa (Black cumin)	25
+C6L245	unreviewed	C6L245_PIG	trypsin (EC 3.4.21.4)	try PRSS2	Sus scrofa (Pig)	247
+E1AXF9	reviewed	APMT1_AMOMA	Amolopin-p-MT1		Amolops mantzorum (Sichuan torrent frog)	62
+E1B243	reviewed	E2MT3_AMOMA	Esculentin-2MT3		Amolops mantzorum (Sichuan torrent frog)	76
+E1B247	reviewed	TP5_AMOMA	Temporin-MT5		Amolops mantzorum (Sichuan torrent frog)	60
+E1B248	reviewed	TP3_AMOMA	Temporin-MT3		Amolops mantzorum (Sichuan torrent frog)	61
+F1NLZ2	unreviewed	F1NLZ2_CHICK	Chromogranin-A	CHGA	Gallus gallus (Chicken)	466
+G3MXK8	unreviewed	G3MXK8_BOVIN	Proteinase 3	PRTN3	Bos taurus (Bovine)	256
+H9G2Z8	unreviewed	H9G2Z8_CAEEL	BPI1 domain-containing protein	CELE_F10D11.6 F10D11.6	Caenorhabditis elegans	817
+J3KNB4	unreviewed	J3KNB4_HUMAN	Cathelicidin antimicrobial peptide	CAMP hCG_18336	Homo sapiens (Human)	173
+M0R485	unreviewed	M0R485_RAT	Peptidoglycan recognition protein 2	Pglyrp2 LOC299567	Rattus norvegicus (Rat)	522
+O18492	reviewed	CLAVE_STYCL	Clavanin-E		Styela clava (Sea squirt)	80
+O93223	reviewed	DRS3_AGAAN	Dermaseptin-A3 (DRS-A3) (Dermaseptin AA-3-1)		Agalychnis annae (Blue-sided leaf frog) (Phyllomedusa annae)	75
+O93224	reviewed	DRS4_AGAAN	Dermaseptin-A4 (DRS-A4) (Dermaseptin AA-3-3)		Agalychnis annae (Blue-sided leaf frog) (Phyllomedusa annae)	72
+O93226	reviewed	DRS5_AGAAN	Dermaseptin-A5 (DRS-A5) (Dermaseptin AA-3-6) (Dermaseptin-A4) (DRS-A4)		Agalychnis annae (Blue-sided leaf frog) (Phyllomedusa annae)	80
+O93453	reviewed	DRS3_AGADC	Dermaseptin-DA3 (DRS-DA3) (Dermaseptin PD-3-3)		Agalychnis dacnicolor (Giant Mexican leaf frog) (Pachymedusa dacnicolor)	80
+P07468	reviewed	DEF2_RABIT	Corticostatin-2 (Antiadrenocorticotropin peptide II) (Corticostatin II) (CS-II) (Microbicidal peptide NP-3B) (Neutrophil antibiotic peptide NP-3B)		Oryctolagus cuniculus (Rabbit)	34
+P0ADR2	reviewed	YGDD_ECOLI	UPF0382 inner membrane protein YgdD	ygdD b2807 JW2778	Escherichia coli (strain K12)	131
+P0C008	reviewed	NIGR1_PELNI	Nigrocin-1		Pelophylax nigromaculatus (Black-spotted frog) (Rana nigromaculata)	33
+P0C009	reviewed	NIGR2_PELNI	Nigrocin-2		Pelophylax nigromaculatus (Black-spotted frog) (Rana nigromaculata)	21
+P0C2U9	reviewed	LYC34_LYCSI	U1-lycotoxin-Ls1a (U1-LCTX-Ls1a) (Peptide 2034)		Lycosa singoriensis (Wolf spider) (Aranea singoriensis)	19
+P0CJ26	reviewed	ASCA2_ASCTR	Ascaphin-2		Ascaphus truei (Coastal tailed frog)	24
+P0CJ28	reviewed	ASCA4_ASCTR	Ascaphin-4		Ascaphus truei (Coastal tailed frog)	24
+P0CJ30	reviewed	ASCA6_ASCTR	Ascaphin-6		Ascaphus truei (Coastal tailed frog)	24
+P0DMI8	reviewed	NDB32_HETSP	Antimicrobial peptide HsAp2		Heterometrus spinifer (Asia giant forest scorpion) (Malaysian black scorpion)	74
+P0DTD6	reviewed	DRS1_AGALE	Dermaseptin-L1 (DRS-L1)		Agalychnis lemur (Lemur leaf frog) (Hylomantis lemur)	32
+P0DUG2	reviewed	AMP1_ACRMI	Antimicrobial peptide AmAMP1		Acropora millepora (Staghorn coral) (Heteropora millepora)	117
+P0DY15	reviewed	NDB23_SCOPA	Antimicrobial peptide Smp43		Scorpio palmatus (Israeli golden scorpion) (Scorpio maurus palmatus)	82
+P0DY17	reviewed	NDB43_SCOPA	Peptide Smp13		Scorpio palmatus (Israeli golden scorpion) (Scorpio maurus palmatus)	68
+P0DY20	reviewed	EQA_ACTEQ	Equinin A		Actinia equina (Beadlet anemone)	27
+P0DY21	reviewed	EQB_ACTEQ	Equinin B		Actinia equina (Beadlet anemone)	71
+P21227	reviewed	CHIB_PEA	Endochitinase B (EC 3.2.1.14)		Pisum sativum (Garden pea) (Lathyrus oleraceus)	23
+P32413	reviewed	BR2_PELLE	Brevinin-2E		Pelophylax lessonae (Pool frog) (Rana lessonae)	33
+P32423	reviewed	BR1_PELPV	Brevinin-1		Pelophylax porosus brevipodus (Nagoya Daruma pond frog) (Rana brevipoda porosa)	24
+P32424	reviewed	BR2_PELPV	Brevinin-2		Pelophylax porosus brevipodus (Nagoya Daruma pond frog) (Rana brevipoda porosa)	33
+P39080	reviewed	PGQ_XENLA	Antimicrobial peptide PGQ (Preproprotein pGQ)	pgq	Xenopus laevis (African clawed frog)	24
+P40839	reviewed	BR2C_PELLE	Brevinin-2Ec		Pelophylax lessonae (Pool frog) (Rana lessonae)	34
+P55788	reviewed	THAN_PODMA	Thanatin		Podisus maculiventris (Spined soldier bug) (Pentatoma maculiventris)	21
+P56685	reviewed	BUTH_ANDAU	Buthinin		Androctonus australis (Sahara scorpion)	34
+P56686	reviewed	DEF4_ANDAU	4 kDa defensin		Androctonus australis (Sahara scorpion)	37
+P56924	reviewed	MLP_RANTE	Melittin-like peptide (MLP)		Rana temporaria (European common frog)	22
+P80278	reviewed	DRS2_PHYSA	Dermaseptin-S2 (DRS-S2) (Dermaseptin II) (DS II) (Dermaseptin-2) (DS2)		Phyllomedusa sauvagei (Sauvage's leaf frog)	34
+P80281	reviewed	DRS5_PHYSA	Dermaseptin-S5 (DRS-S5) (Dermaseptin V) (DS V) (Dermaseptin-5) (DS5)		Phyllomedusa sauvagei (Sauvage's leaf frog)	29
+P80359	reviewed	HEVP_HEVBR	Pseudo-hevein (Minor hevein)		Hevea brasiliensis (Para rubber tree) (Siphonia brasiliensis)	45
+P80389	reviewed	AMP1_CHICK	Antimicrobial peptide CHP1 (Chicken heterophil peptide 1)		Gallus gallus (Chicken)	39
+P80393	reviewed	AMP3_MELGA	Antimicrobial peptide THP3 (Turkey heterophil peptide 3)		Meleagris gallopavo (Wild turkey)	25
+P80711	reviewed	CLAVB_STYCL	Clavanin-B		Styela clava (Sea squirt)	23
+P80954	reviewed	RUGA_GLARU	Rugosin-A		Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	33
+P80955	reviewed	RUGB_GLARU	Rugosin-B		Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	33
+P80956	reviewed	RUGC_GLARU	Rugosin-C		Glandirana rugosa (Japanese wrinkled frog) (Rana rugosa)	37
+P81469	reviewed	STYA_STYCL	Styelin-A		Styela clava (Sea squirt)	20
+P81470	reviewed	STYB_STYCL	Styelin-B		Styela clava (Sea squirt)	20
+P81610	reviewed	DEFA_MYTED	Defensin-A		Mytilus edulis (Blue mussel)	37
+P81611	reviewed	DEFB_MYTED	Defensin-B		Mytilus edulis (Blue mussel)	35
+P81614	reviewed	MYMY_MYTED	Mytimycin		Mytilus edulis (Blue mussel)	33
+P81729	reviewed	CHAL_BRARR	Chitin-binding allergen Bra r 2 (allergen Bra r 2)		Brassica rapa subsp. rapa (Turnip)	91
+P82232	reviewed	BR1_RANTE	Brevinin-1T		Rana temporaria (European common frog)	20
+P82234	reviewed	BR2C_RANTE	Brevinin-2Tc		Rana temporaria (European common frog)	29
+P82235	reviewed	BR2D_RANTE	Brevinin-2Td		Rana temporaria (European common frog)	29
+P82269	reviewed	BR2B_RANTE	Brevinin-2Tb		Rana temporaria (European common frog)	74
+P82741	reviewed	RN2X1_AQUCT	Ranatuerin-1		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	25
+P82742	reviewed	RN2X2_AQUCT	Ranatuerin-2		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	31
+P82780	reviewed	RN2X3_AQUCT	Ranatuerin-3		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	32
+P82819	reviewed	RN2X4_AQUCT	Ranatuerin-4		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	24
+P82820	reviewed	TP5_AQUCT	Ranatuerin-5 (Temporin)		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	12
+P82821	reviewed	TP6_AQUCT	Ranatuerin-6 (Temporin)		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	13
+P82822	reviewed	TP7_AQUCT	Ranatuerin-7 (Temporin)		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	13
+P82823	reviewed	TP8_AQUCT	Ranatuerin-8 (Temporin)		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	13
+P82824	reviewed	TP9_AQUCT	Ranatuerin-9 (Temporin)		Aquarana catesbeiana (American bullfrog) (Rana catesbeiana)	14
+P83086	reviewed	MHT_BOMMX	Maximin-Ht (Maximin-7)		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	20
+P83087	reviewed	MHU_BOMMX	Maximin-Hu (Maximin-8)		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	20
+P83640	reviewed	DRS3_PHYDS	Dermaseptin-DI3 (DRS-DI3) (Dermadistinctin-M) (DD M)		Phyllomedusa distincta (Monkey frog)	31
+P83642	reviewed	DRS5_PHYDS	Dermaseptin-DI5 (DRS-DI5) (Dermadistinctin-Q2) (DD Q2)		Phyllomedusa distincta (Monkey frog)	25
+P84524	reviewed	AMP1_PITHY	Antimicrobial peptide 1		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	12
+P84598	reviewed	DRS5_PITHY	Dermaseptin-H5 (DRS-H5) (DShypo 03)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	34
+P84859	reviewed	GUEN_SYLGU	Guentherin (AMP-3)		Sylvirana guentheri (Gunther's frog) (Rana guentheri)	26
+P84880	reviewed	DRS9_PITHY	Dermaseptin-H9 (DRS-H9) (DShypo 07)		Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis)	33
+P84958	reviewed	HPS3_PITAZ	Hyposin-H3 (HPS-H3) (Hyposin-5) (Hyposin-HA5)		Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea)	15
+P86042	reviewed	BR2CB_RANDY	Brevinin-2CDYb		Rana dybowskii (Dybovsky's frog) (Korean brown frog)	33
+P86416	reviewed	PAPIL_HALPP	Papillosin		Halocynthia papillosa (Red sea-squirt)	34
+Q0JC38	unreviewed	Q0JC38_ORYSJ	chitinase (EC 3.2.1.14)	Os04g0493600 OSNPB_040493600	Oryza sativa subsp. japonica (Rice)	91
+Q2G0E1	reviewed	GRAX_STAA8	Auxiliary protein GraX	graX SAOUHSC_00664	Staphylococcus aureus (strain NCTC 8325 / PS 47)	307
+Q2V4I8	reviewed	DEF32_ARATH	Defensin-like protein 32	At1g35537 F15O4	Arabidopsis thaliana (Mouse-ear cress)	81
+Q65MA9	unreviewed	Q65MA9_BACLD	Phosphatidylglycerol lysyltransferase (EC 2.3.2.3) (Lysylphosphatidylglycerol synthase)	yfiX mprF BL03028	Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / CCUG 7422 / NBRC 12200 / NCIMB 9375 / NCTC 10341 / NRRL NRS-1264 / Gibson 46)	850
+Q6PP25	unreviewed	Q6PP25_9INFA	Hemagglutinin	HA	Influenza A virus (A/Kwangju/243/2002(H3N2))	550
+Q6WSR8	unreviewed	Q6WSR8_PICAB	chitinase (EC 3.2.1.14)		Picea abies (Norway spruce) (Picea excelsa)	276
+Q792Y9	unreviewed	Q792Y9_MOUSE	trypsin (EC 3.4.21.4)	Prss1l EG436523 Gm5771 trypsinogen	Mus musculus (Mouse)	245
+Q792Z0	unreviewed	Q792Z0_MOUSE	trypsin (EC 3.4.21.4)	Prss3 Tcrb-V20 trypsinogen	Mus musculus (Mouse)	246
+Q792Z1	unreviewed	Q792Z1_MOUSE	trypsin (EC 3.4.21.4)	Try10 Tcrb-V20 trypsinogen	Mus musculus (Mouse)	246
+Q90VW7	reviewed	PLE3_PSEAM	Pleurocidin-like peptide WF3	ple3	Pseudopleuronectes americanus (Winter flounder) (Pleuronectes americanus)	61
+Q90YS5	unreviewed	Q90YS5_DANRE	lysozyme (EC 3.2.1.17)	lyz lys-C zgc:136734	Danio rerio (Zebrafish) (Brachydanio rerio)	151
+Q90ZX8	reviewed	PLE4_PSEAM	Pleurocidin-like peptide WF4	ple4	Pseudopleuronectes americanus (Winter flounder) (Pleuronectes americanus)	68
+Q9FUH3	unreviewed	Q9FUH3_VIGUS	chitinase (EC 3.2.1.14)		Vigna unguiculata subsp. sesquipedalis (Yard-Long bean) (Vigna sesquipedalis)	297
+Q9FXB8	unreviewed	Q9FXB8_ARATH	chitinase (EC 3.2.1.14)	At1g56680 F25P12.88 F25P12_88	Arabidopsis thaliana (Mouse-ear cress)	280
+Q9Z1R9	unreviewed	Q9Z1R9_MOUSE	trypsin (EC 3.4.21.4)	Prss1 Trygn16 trypsinogen	Mus musculus (Mouse)	246
+A0A2D0TCI2	unreviewed	A0A2D0TCI2_GYPVA	Vaccatide, vH1		Gypsophila vaccaria (Cow soapwort) (Saponaria vaccaria)	40
+A0A3G2WH77	unreviewed	A0A3G2WH77_9ANNE	Prepronicomicin-1		Nicomache minor	239
+A0A3Q1LWA5	unreviewed	A0A3Q1LWA5_BOVIN	Saposin B-type domain-containing protein		Bos taurus (Bovine)	166
+A0A452CSM5	unreviewed	A0A452CSM5_CAPAN	Vicilin-like antimicrobial peptides 2-2		Capsicum annuum (Capsicum pepper)	390
+A0A509GUM8	unreviewed	A0A509GUM8_CHEQI	cQ2		Chenopodium quinoa (Quinoa)	30
+A0A5K4F6V0	unreviewed	A0A5K4F6V0_SCHMA	Putative kunitz-type protease inhibitor		Schistosoma mansoni (Blood fluke)	191
+A0A6M3YBJ9	unreviewed	A0A6M3YBJ9_PENJP	Antilipopolysaccharide factor D		Penaeus japonicus (Kuruma prawn) (Marsupenaeus japonicus)	124
+A6YID9	unreviewed	A6YID9_CLOSI	Cystatin-1 (Cystatin-B)	CSKR_100414	Clonorchis sinensis (Chinese liver fluke)	136
+A7RED7	unreviewed	A7RED7_ARATH	Plant thionin family protein	At1g11572	Arabidopsis thaliana (Mouse-ear cress)	89
+A7REG6	unreviewed	A7REG6_ARATH	Prolamin-like protein (DUF784)	At2g04031	Arabidopsis thaliana (Mouse-ear cress)	151
+C0PGM3	unreviewed	C0PGM3_MAIZE	Globulin-1 S allele	LOC732801 ZEAMMB73_Zm00001d033447	Zea mays (Maize)	572
+F6M2J2	unreviewed	F6M2J2_MAGGI	Big defensin 1	bigdef1	Magallana gigas (Pacific oyster) (Crassostrea gigas)	130
+G4VEE0	unreviewed	G4VEE0_SCHMA	Putative kunitz-type protease inhibitor		Schistosoma mansoni (Blood fluke)	146
+P54940	reviewed	YXEA_BACSU	Uncharacterized protein YxeA	yxeA BSU39620 HS74A	Bacillus subtilis (strain 168)	115
+P91429	unreviewed	P91429_CAEEL	C-type lectin domain-containing protein	clec-53 CELE_T03F1.10 T03F1.10	Caenorhabditis elegans	308
+Q0E8V8	unreviewed	Q0E8V8_DROME	MIP09469p	Dmel\CG9380 CG9380-RC CG9380 Dmel_CG9380	Drosophila melanogaster (Fruit fly)	850
+Q17450	unreviewed	Q17450_CAEEL	C-type lectin domain-containing protein	clec-51 B0218.6 CELE_B0218.6	Caenorhabditis elegans	308
+Q17452	unreviewed	Q17452_CAEEL	C-type lectin domain-containing protein	clec-52 B0218.8 CELE_B0218.8	Caenorhabditis elegans	308
+Q1G2Y4	unreviewed	Q1G2Y4_ARATH	Gibberellin-regulated family protein	At1g10588	Arabidopsis thaliana (Mouse-ear cress)	90
+Q1PDH3	unreviewed	Q1PDH3_ARATH	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	MNC17.24 MNC17_24 At5g59330	Arabidopsis thaliana (Mouse-ear cress)	87
+Q1PEB1	unreviewed	Q1PEB1_ARATH	ECA1 gametogenesis family protein (DUF784)	At4g08025	Arabidopsis thaliana (Mouse-ear cress)	115
+Q22591	unreviewed	Q22591_CAEEL	C-type lectin domain-containing protein	clec-178 CELE_T19E7.1 T19E7.1	Caenorhabditis elegans	178
+Q3E6Z0	unreviewed	Q3E6Z0_ARATH	ECA1 gametogenesis family protein (DUF784)	At4g13263	Arabidopsis thaliana (Mouse-ear cress)	149
+Q3E926	unreviewed	Q3E926_ARATH	Membrane lipoprotein	At5g26717	Arabidopsis thaliana (Mouse-ear cress)	81
+Q3EBD9	unreviewed	Q3EBD9_ARATH	Prolamin-like protein (DUF784)	At3g01185	Arabidopsis thaliana (Mouse-ear cress)	148
+Q5BPK0	unreviewed	Q5BPK0_ARATH	Egg cell-secreted-like protein (DUF1278)	At4g35165	Arabidopsis thaliana (Mouse-ear cress)	120
+Q7M1Z8	unreviewed	Q7M1Z8_MAIZE	Globulin-2	LOC542382 ZEAMMB73_Zm00001d034413	Zea mays (Maize)	450
+Q8BZH8	unreviewed	Q8BZH8_MOUSE	Seminal vesicle secretory protein 3B	Svs3b Svs3 Svs3a	Mus musculus (Mouse)	265
+Q8QFP2	unreviewed	Q8QFP2_BOMMX	Proline rich bombesin-related protein		Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad)	121
+Q90VX5	unreviewed	Q90VX5_PSEAM	Pleurocidin-like prepropolypeptide	ple1	Pseudopleuronectes americanus (Winter flounder) (Pleuronectes americanus)	89
+Q90WJ0	unreviewed	Q90WJ0_PSEAM	Pleurocidin-like prepropolypeptide	ple1a	Pseudopleuronectes americanus (Winter flounder) (Pleuronectes americanus)	72
+Q9HYN5	unreviewed	Q9HYN5_PSEAE	Fucose-binding lectin PA-IIL	lecB PA3361	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	115
+Q9QUS9	unreviewed	Q9QUS9_MOUSE	Reg III delta (Reg3d protein) (Regenerating islet-derived 3 delta)	Reg3d	Mus musculus (Mouse)	175
+Q9S7B3	unreviewed	Q9S7B3_URTDI	Agglutinin isolectin V	chia5.5.2 chia5.5.1	Urtica dioica (Great nettle) (Stinging nettle)	112
+Q9SYR5	unreviewed	Q9SYR5_URTDI	Agglutinin isolectin VI	chia5.6.1	Urtica dioica (Great nettle) (Stinging nettle)	112
+Q9XUL6	unreviewed	Q9XUL6_CAEEL	C-type lectin domain-containing protein	clec-49 CELE_W04E12.6 W04E12.6	Caenorhabditis elegans	321
+Q9XUL7	unreviewed	Q9XUL7_CAEEL	C-type lectin domain-containing protein	clec-50 CELE_W04E12.8 W04E12.8	Caenorhabditis elegans	321
+Q9XVE1	unreviewed	Q9XVE1_CAEEL	C-type lectin domain-containing protein	clec-48 C14A6.1 CELE_C14A6.1	Caenorhabditis elegans	321
+R4ZAN8	unreviewed	R4ZAN8_TRIKH	L-2	l-2	Triticum kiharae (Wheat)	362
